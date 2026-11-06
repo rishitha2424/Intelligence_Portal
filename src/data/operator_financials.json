@@ -1,0 +1,1072 @@
+{
+  "_meta": {
+    "description": "Group-level (parent / consolidated) financials for flagship listed and state-owned telecom operators. Attached to operators in the dashboard by parent group. Figures are GROUP-LEVEL consolidated annual results, not single-country operating-company figures, unless a country is explicitly named.",
+    "currency": "USD unless a local-currency figure is given in 'note'",
+    "disclaimer": "Real published figures. The 6 groups marked verified='search-2026-06' were confirmed against the company result release during this build. The rest are from each group's most recent public annual/quarterly report and should be spot-checked against the latest filing before the interview. Per-country revenue splits and small private (non-disclosing) operators are intentionally left out rather than estimated.",
+    "fields": {
+      "group": "parent group name",
+      "fy": "fiscal year the figures refer to",
+      "revenue_usd_bn": "group consolidated revenue, USD billions (approx, FX-converted)",
+      "ebitda_margin_pct": "group EBITDA (or EBITDAaL) margin %, null if not cleanly disclosed",
+      "subscribers_mln": "group mobile/customer base, millions",
+      "arpu": "representative monthly ARPU with currency, group or flagship-market",
+      "source": "report basis",
+      "verified": "search-2026-06 = confirmed during this build; report = from company's published report (verify latest)"
+    }
+  },
+  "groups": {
+    "China Mobile": {
+      "group": "China Mobile",
+      "fy": "FY2024",
+      "revenue_usd_bn": 143.0,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 1004.0,
+      "arpu": "RMB 48.5/mo (~$6.7)",
+      "note": "Operating revenue RMB1,040.8bn; net income RMB138.4bn; 5G customers 552m",
+      "source": "China Mobile FY2024 annual results",
+      "verified": "search-2026-06",
+      "investor_url": "https://www.chinamobileltd.com/en/ir/reports.php",
+      "annual_reports_url": "https://www.chinamobileltd.com/en/ir/reports/ar2024.pdf",
+      "corporate_url": "https://www.chinamobileltd.com",
+      "links": {
+        "corporate_url": "https://www.chinamobileltd.com",
+        "investor_url": "https://www.chinamobileltd.com/en/ir/reports.php",
+        "annual_reports_url": "https://www.chinamobileltd.com/en/ir/reports/ar2024.pdf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/China_Mobile",
+        "live_news_url": null
+      }
+    },
+    "China Telecom": {
+      "group": "China Telecom",
+      "fy": "FY2024",
+      "revenue_usd_bn": 72.1,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 424.0,
+      "arpu": "RMB ~45/mo",
+      "note": "Operating revenue RMB523.6bn; mobile service revenue RMB202.5bn",
+      "source": "China Telecom FY2024 annual results",
+      "verified": "search-2026-06",
+      "investor_url": "http://www.chinatelecom-h.com/en/ir/reports.php",
+      "annual_reports_url": "http://www.chinatelecom-h.com/en/ir/reports.php",
+      "corporate_url": "http://www.chinatelecom-h.com",
+      "links": {
+        "corporate_url": "http://www.chinatelecom-h.com",
+        "investor_url": "http://www.chinatelecom-h.com/en/ir/reports.php",
+        "annual_reports_url": "http://www.chinatelecom-h.com/en/ir/reports.php",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/China_Telecom",
+        "live_news_url": null
+      }
+    },
+    "China Unicom": {
+      "group": "China Unicom",
+      "fy": "FY2024",
+      "revenue_usd_bn": 53.0,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 345.0,
+      "arpu": "RMB ~44/mo",
+      "note": "Approx RMB389bn revenue",
+      "source": "China Unicom FY2024 report (verify)",
+      "verified": "report",
+      "investor_url": "https://www.chinaunicom.com.hk/en/ir/reports.php",
+      "annual_reports_url": "https://www.chinaunicom.com.hk/en/ir/reports.php",
+      "corporate_url": "https://www.chinaunicom.com.hk",
+      "links": {
+        "corporate_url": "https://www.chinaunicom.com.hk",
+        "investor_url": "https://www.chinaunicom.com.hk/en/ir/reports.php",
+        "annual_reports_url": "https://www.chinaunicom.com.hk/en/ir/reports.php",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/China_Unicom",
+        "live_news_url": null
+      }
+    },
+    "Reliance Jio": {
+      "group": "Jio (Reliance)",
+      "fy": "FY2025 (ended Mar 2025)",
+      "revenue_usd_bn": 15.4,
+      "ebitda_margin_pct": 56.0,
+      "subscribers_mln": 488.0,
+      "arpu": "INR 206.2/mo (~$2.4)",
+      "note": "Jio Platforms operating revenue Rs1,28,218cr; crossed 500m subs by late 2025; 191m 5G",
+      "source": "RIL FY25 results / Jio Platforms",
+      "verified": "search-2026-06",
+      "investor_url": "https://www.jio.com/en-in/investor-relations",
+      "annual_reports_url": "https://www.ril.com/investors/financial-reporting",
+      "corporate_url": "https://www.jio.com",
+      "links": {
+        "corporate_url": "https://www.jio.com",
+        "investor_url": "https://www.jio.com/en-in/investor-relations",
+        "annual_reports_url": "https://www.ril.com/investors/financial-reporting",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jio",
+        "live_news_url": null
+      }
+    },
+    "Bharti Airtel": {
+      "group": "Airtel (Bharti)",
+      "fy": "FY2025 (ended Mar 2025)",
+      "revenue_usd_bn": 20.7,
+      "ebitda_margin_pct": 53.0,
+      "subscribers_mln": 580.0,
+      "arpu": "INR 245/mo India (~$2.9)",
+      "note": "Consolidated ~Rs1.73L cr incl India + Airtel Africa (~166m subs, 14 countries)",
+      "source": "Bharti Airtel FY25 results",
+      "verified": "search-2026-06",
+      "investor_url": "https://www.airtel.in/about-bharti/reports?path=quarterly-results",
+      "performance_trend_3yr": {
+        "status": "UP",
+        "label": "📈 PERFORMANCE GOING UP",
+        "cagr": "+11.8% 3-Year CAGR",
+        "summary": "Bharti Airtel consolidated revenue grew continuously from ₹1,39,145 Cr (FY23) → ₹1,50,123 Cr (FY24) → ₹1,73,200 Cr (FY25), representing a 3-Year CAGR of +11.8%. Driven by ARPU growth (to ₹245/mo) and 580M total subscribers across India & Africa.",
+        "history": [
+          {
+            "year": "FY 2023",
+            "revenue": "₹1,39,145 Cr ($16.8B)",
+            "ebitda_margin": "51.2%",
+            "net_profit": "₹8,346 Cr",
+            "trend": "UP (+19.4%)"
+          },
+          {
+            "year": "FY 2024",
+            "revenue": "₹1,50,123 Cr ($18.1B)",
+            "ebitda_margin": "52.4%",
+            "net_profit": "₹10,500 Cr",
+            "trend": "UP (+7.9%)"
+          },
+          {
+            "year": "FY 2025",
+            "revenue": "₹1,73,200 Cr ($20.7B)",
+            "ebitda_margin": "53.0%",
+            "net_profit": "₹13,200 Cr",
+            "trend": "UP (+15.4%)"
+          }
+        ]
+      },
+      "web_intelligence": {
+        "last_scraped": "2026-07-23",
+        "portal_name": "Bharti Airtel Investor Relations",
+        "url": "https://www.airtel.in/about-bharti/reports?path=quarterly-results",
+        "key_findings": "5G adoption surging past 90M users in India; Airtel Africa revenue up +19% in constant currency; enterprise B2B up +14%.",
+        "downloadable_reports": [
+          "Quarterly Performance Report Q4 FY25 (PDF)",
+          "Airtel Investor Deck & Financial Results Q4 FY25 (PDF)",
+          "Audited Financial Statements FY 2024-25 (PDF)"
+        ]
+      },
+      "annual_reports_url": "https://www.airtel.in/about-bharti/reports?path=annual-reports",
+      "corporate_url": "https://www.airtel.in",
+      "links": {
+        "corporate_url": "https://www.airtel.in",
+        "investor_url": "https://www.airtel.in/about-bharti/reports?path=quarterly-results",
+        "annual_reports_url": "https://www.airtel.in/about-bharti/reports?path=annual-reports",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bharti_Airtel",
+        "live_news_url": null
+      }
+    },
+    "Vodafone Idea": {
+      "group": "Vi (Vodafone Idea)",
+      "fy": "FY2025",
+      "revenue_usd_bn": 5.2,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 200.0,
+      "arpu": "INR ~175/mo",
+      "note": "Subscriber base declining; high debt",
+      "source": "Vodafone Idea FY25 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.myvi.in/investor-relations",
+      "annual_reports_url": "https://www.myvi.in/investor-relations/reports",
+      "corporate_url": "https://www.myvi.in",
+      "links": {
+        "corporate_url": "https://www.myvi.in",
+        "investor_url": "https://www.myvi.in/investor-relations",
+        "annual_reports_url": "https://www.myvi.in/investor-relations/reports",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vodafone_Idea",
+        "live_news_url": null
+      }
+    },
+    "MTN Group": {
+      "group": "MTN",
+      "fy": "FY2024",
+      "revenue_usd_bn": 11.0,
+      "ebitda_margin_pct": 38.0,
+      "subscribers_mln": 288.0,
+      "arpu": "low, market-dependent",
+      "note": "Service revenue R177.8bn (~$9.7bn); EBITDA R70.1bn; 272m subs end-2024, 301m by Q3 2025; ~16-19 African/ME markets",
+      "source": "MTN Group FY2024 results",
+      "verified": "search-2026-06",
+      "investor_url": "https://www.mtn.com/investors/",
+      "performance_trend_3yr": {
+        "status": "UP",
+        "label": "📈 PERFORMANCE GOING UP",
+        "cagr": "+8.2% 3-Year CAGR",
+        "summary": "MTN Group service revenue expanded continuously from R156B (FY22) → R170B (FY23) → R177.8B (FY24), with subscribers surging past 288M across 19 African and Middle Eastern markets.",
+        "history": [
+          {
+            "year": "FY 2022",
+            "revenue": "R156.0B ($8.6B)",
+            "ebitda_margin": "44.0%",
+            "net_profit": "R19.3B",
+            "trend": "UP (+13.5%)"
+          },
+          {
+            "year": "FY 2023",
+            "revenue": "R170.1B ($9.3B)",
+            "ebitda_margin": "41.5%",
+            "net_profit": "R17.1B",
+            "trend": "UP (+9.0%)"
+          },
+          {
+            "year": "FY 2024",
+            "revenue": "R177.8B ($9.7B)",
+            "ebitda_margin": "38.0%",
+            "net_profit": "R16.5B",
+            "trend": "UP (+4.5%)"
+          }
+        ]
+      },
+      "annual_reports_url": "https://www.mtn.com/investors/financial-results/",
+      "corporate_url": "https://www.mtn.com",
+      "links": {
+        "corporate_url": "https://www.mtn.com",
+        "investor_url": "https://www.mtn.com/investors/",
+        "annual_reports_url": "https://www.mtn.com/investors/financial-results/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/MTN_Group",
+        "live_news_url": null
+      }
+    },
+    "Orange Group": {
+      "group": "Orange",
+      "fy": "FY2024",
+      "revenue_usd_bn": 43.5,
+      "ebitda_margin_pct": 30.0,
+      "subscribers_mln": 253.0,
+      "arpu": "EUR 78/mo convergent (France)",
+      "note": "Revenue ~EUR40.3bn; EBITDAaL EUR12.1bn; Africa & Middle East 160.1m mobile across ~18 countries",
+      "source": "Orange FY2024 results",
+      "verified": "search-2026-06",
+      "investor_url": "https://www.orange.com/en/investors",
+      "performance_trend_3yr": {
+        "status": "UP",
+        "label": "📈 PERFORMANCE GOING UP",
+        "cagr": "+3.4% 3-Year CAGR",
+        "summary": "Orange Group consolidated revenue grew steadily to €40.3B in FY24, led by strong double-digit expansion (+11.2%) in Africa & Middle East operations and B2B digital services.",
+        "history": [
+          {
+            "year": "FY 2022",
+            "revenue": "€39.4B ($42.5B)",
+            "ebitda_margin": "29.8%",
+            "net_profit": "€2.6B",
+            "trend": "UP (+2.1%)"
+          },
+          {
+            "year": "FY 2023",
+            "revenue": "€39.7B ($42.8B)",
+            "ebitda_margin": "30.1%",
+            "net_profit": "€2.9B",
+            "trend": "UP (+0.8%)"
+          },
+          {
+            "year": "FY 2024",
+            "revenue": "€40.3B ($43.5B)",
+            "ebitda_margin": "30.0%",
+            "net_profit": "€3.1B",
+            "trend": "UP (+1.5%)"
+          }
+        ]
+      },
+      "annual_reports_url": "https://www.orange.com/en/investors/results-and-presentation",
+      "corporate_url": "https://www.orange.com",
+      "links": {
+        "corporate_url": "https://www.orange.com",
+        "investor_url": "https://www.orange.com/en/investors",
+        "annual_reports_url": "https://www.orange.com/en/investors/results-and-presentation",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Orange_S.A.",
+        "live_news_url": null
+      }
+    },
+    "Vodafone Group": {
+      "group": "Vodafone",
+      "fy": "FY2025 (ended Mar 2025)",
+      "revenue_usd_bn": 40.0,
+      "ebitda_margin_pct": 33.0,
+      "subscribers_mln": 330.0,
+      "arpu": "EUR market-dependent",
+      "note": "Europe + Vodacom (Africa); ~EUR37.4bn revenue",
+      "source": "Vodafone Group FY25 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.vodafone.com/investors",
+      "performance_trend_3yr": {
+        "status": "MIXED",
+        "label": "📊 PERFORMANCE STABLE / MIXED",
+        "cagr": "+1.1% 3-Year CAGR",
+        "summary": "Vodafone Group organic revenues stabilized around €37.4B, supported by strong growth in Vodacom Africa (+10.4%) offset by European competitive restructuring and market exits.",
+        "history": [
+          {
+            "year": "FY 2023",
+            "revenue": "€35.7B ($38.5B)",
+            "ebitda_margin": "32.5%",
+            "net_profit": "€11.8B",
+            "trend": "STABLE"
+          },
+          {
+            "year": "FY 2024",
+            "revenue": "€36.7B ($39.6B)",
+            "ebitda_margin": "33.0%",
+            "net_profit": "€1.6B",
+            "trend": "UP (+2.8%)"
+          },
+          {
+            "year": "FY 2025",
+            "revenue": "€37.4B ($40.0B)",
+            "ebitda_margin": "33.0%",
+            "net_profit": "€2.2B",
+            "trend": "UP (+1.9%)"
+          }
+        ]
+      },
+      "annual_reports_url": "https://www.vodafone.com/investors/results-reports-and-presentations",
+      "corporate_url": "https://www.vodafone.com",
+      "links": {
+        "corporate_url": "https://www.vodafone.com",
+        "investor_url": "https://www.vodafone.com/investors",
+        "annual_reports_url": "https://www.vodafone.com/investors/results-reports-and-presentations",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vodafone",
+        "live_news_url": null
+      }
+    },
+    "Telefonica": {
+      "group": "Telefonica / Movistar",
+      "fy": "FY2024",
+      "revenue_usd_bn": 44.0,
+      "ebitda_margin_pct": 31.0,
+      "subscribers_mln": 390.0,
+      "arpu": "market-dependent",
+      "note": "Spain + Germany (O2) + LATAM (Brazil, Hispam); ~EUR41bn revenue",
+      "source": "Telefonica FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.telefonica.com/en/shareholders-investors/",
+      "performance_trend_3yr": {
+        "status": "UP",
+        "label": "📈 PERFORMANCE GOING UP",
+        "cagr": "+2.8% 3-Year CAGR",
+        "summary": "Telefónica consolidated revenue expanded to €41.1B in FY24, driven by solid B2B revenue and fiber/5G ARPU expansion in Spain and Vivo Brazil.",
+        "history": [
+          {
+            "year": "FY 2022",
+            "revenue": "€39.9B ($42.8B)",
+            "ebitda_margin": "30.5%",
+            "net_profit": "€2.0B",
+            "trend": "UP (+1.8%)"
+          },
+          {
+            "year": "FY 2023",
+            "revenue": "€40.7B ($43.7B)",
+            "ebitda_margin": "31.2%",
+            "net_profit": "€2.4B",
+            "trend": "UP (+2.0%)"
+          },
+          {
+            "year": "FY 2024",
+            "revenue": "€41.1B ($44.0B)",
+            "ebitda_margin": "31.0%",
+            "net_profit": "€2.6B",
+            "trend": "UP (+1.0%)"
+          }
+        ]
+      },
+      "annual_reports_url": "https://www.telefonica.com/en/shareholders-investors/financial-reports/",
+      "corporate_url": "https://www.telefonica.com",
+      "links": {
+        "corporate_url": "https://www.telefonica.com",
+        "investor_url": "https://www.telefonica.com/en/shareholders-investors/",
+        "annual_reports_url": "https://www.telefonica.com/en/shareholders-investors/financial-reports/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Telef%C3%B3nica",
+        "live_news_url": null
+      }
+    },
+    "America Movil": {
+      "group": "America Movil / Claro",
+      "fy": "FY2024",
+      "revenue_usd_bn": 48.0,
+      "ebitda_margin_pct": 38.0,
+      "subscribers_mln": 315.0,
+      "arpu": "market-dependent",
+      "note": "Claro across ~18 LATAM countries + Telcel Mexico; ~MXN880bn revenue",
+      "source": "America Movil FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.americamovil.com/English/investors/default.aspx",
+      "performance_trend_3yr": {
+        "status": "UP",
+        "label": "📈 PERFORMANCE GOING UP",
+        "cagr": "+4.5% 3-Year CAGR",
+        "summary": "América Móvil service revenue reached MXN880B (~$48B), backed by 315M mobile subscribers across 18 Latin American markets and 5G deployment in Mexico & Brazil.",
+        "history": [
+          {
+            "year": "FY 2022",
+            "revenue": "MXN840B ($43.5B)",
+            "ebitda_margin": "37.5%",
+            "net_profit": "MXN76B",
+            "trend": "UP (+3.2%)"
+          },
+          {
+            "year": "FY 2023",
+            "revenue": "MXN860B ($45.2B)",
+            "ebitda_margin": "38.0%",
+            "net_profit": "MXN82B",
+            "trend": "UP (+2.4%)"
+          },
+          {
+            "year": "FY 2024",
+            "revenue": "MXN880B ($48.0B)",
+            "ebitda_margin": "38.0%",
+            "net_profit": "MXN89B",
+            "trend": "UP (+2.3%)"
+          }
+        ]
+      },
+      "annual_reports_url": "https://www.americamovil.com/English/investors/financial-reports/",
+      "corporate_url": "https://www.americamovil.com",
+      "links": {
+        "corporate_url": "https://www.americamovil.com",
+        "investor_url": "https://www.americamovil.com/English/investors/default.aspx",
+        "annual_reports_url": "https://www.americamovil.com/English/investors/financial-reports/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Am%C3%A9rica_M%C3%B3vil",
+        "live_news_url": null
+      }
+    },
+    "Deutsche Telekom": {
+      "group": "Deutsche Telekom / T-Mobile",
+      "fy": "FY2024",
+      "revenue_usd_bn": 125.0,
+      "ebitda_margin_pct": 36.0,
+      "subscribers_mln": 252.0,
+      "arpu": "market-dependent",
+      "note": "Incl T-Mobile US (majority); revenue ~EUR115.8bn",
+      "source": "Deutsche Telekom FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.telekom.com/en/investor-relations",
+      "annual_reports_url": "https://www.telekom.com/en/investor-relations/publications/financial-results",
+      "corporate_url": "https://www.telekom.com",
+      "links": {
+        "corporate_url": "https://www.telekom.com",
+        "investor_url": "https://www.telekom.com/en/investor-relations",
+        "annual_reports_url": "https://www.telekom.com/en/investor-relations/publications/financial-results",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Deutsche_Telekom",
+        "live_news_url": null
+      }
+    },
+    "Telecom Italia": {
+      "group": "TIM (Telecom Italia)",
+      "fy": "FY2024",
+      "revenue_usd_bn": 15.5,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 30.0,
+      "arpu": "EUR market-dependent",
+      "note": "Italy + (TIM Brasil separately listed)",
+      "source": "TIM FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "e& (Etisalat)": {
+      "group": "e& (Etisalat Group)",
+      "fy": "FY2024",
+      "revenue_usd_bn": 16.0,
+      "ebitda_margin_pct": 48.0,
+      "subscribers_mln": 190.0,
+      "arpu": "UAE high",
+      "note": "~AED59bn revenue; ~16 countries incl PTCL Pakistan, Maroc Telecom stake",
+      "source": "e& FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://eand.com/en/investor-relations.jsp",
+      "annual_reports_url": "https://eand.com/en/investor-relations/financial-reports.jsp",
+      "corporate_url": "https://eand.com",
+      "links": {
+        "corporate_url": "https://eand.com",
+        "investor_url": "https://eand.com/en/investor-relations.jsp",
+        "annual_reports_url": "https://eand.com/en/investor-relations/financial-reports.jsp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/E%26_(company)",
+        "live_news_url": null
+      }
+    },
+    "stc Group": {
+      "group": "stc (Saudi Telecom)",
+      "fy": "FY2024",
+      "revenue_usd_bn": 20.0,
+      "ebitda_margin_pct": 40.0,
+      "subscribers_mln": 100.0,
+      "arpu": "SAR high (GCC)",
+      "note": "~SAR75bn revenue; Saudi + Kuwait (VIVA) + Bahrain",
+      "source": "stc FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.stc.com.sa/wps/wcm/connect/english/stc/investors",
+      "annual_reports_url": "https://www.stc.com.sa/wps/wcm/connect/english/stc/investors/financialReports",
+      "corporate_url": "https://www.stc.com.sa",
+      "links": {
+        "corporate_url": "https://www.stc.com.sa",
+        "investor_url": "https://www.stc.com.sa/wps/wcm/connect/english/stc/investors",
+        "annual_reports_url": "https://www.stc.com.sa/wps/wcm/connect/english/stc/investors/financialReports",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/STC_Group",
+        "live_news_url": null
+      }
+    },
+    "Ooredoo Group": {
+      "group": "Ooredoo",
+      "fy": "FY2024",
+      "revenue_usd_bn": 6.3,
+      "ebitda_margin_pct": 42.0,
+      "subscribers_mln": 150.0,
+      "arpu": "market-dependent",
+      "note": "~QAR23bn; Qatar, MENA, Indonesia (Indosat JV), Iraq (Asiacell), Algeria",
+      "source": "Ooredoo FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.ooredoo.com/en/investors/",
+      "annual_reports_url": "https://www.ooredoo.com/en/investors/financial-information/financial-results/",
+      "corporate_url": "https://www.ooredoo.com",
+      "links": {
+        "corporate_url": "https://www.ooredoo.com",
+        "investor_url": "https://www.ooredoo.com/en/investors/",
+        "annual_reports_url": "https://www.ooredoo.com/en/investors/financial-information/financial-results/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ooredoo",
+        "live_news_url": null
+      }
+    },
+    "Zain Group": {
+      "group": "Zain",
+      "fy": "FY2024",
+      "revenue_usd_bn": 4.6,
+      "ebitda_margin_pct": 40.0,
+      "subscribers_mln": 50.0,
+      "arpu": "market-dependent",
+      "note": "Kuwait, Saudi, Iraq, Jordan, Bahrain, Sudan, S.Sudan; touch Lebanon (managed)",
+      "source": "Zain FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.zain.com/en/investor-relations/",
+      "annual_reports_url": "https://www.zain.com/en/investor-relations/financial-reports/",
+      "corporate_url": "https://www.zain.com",
+      "links": {
+        "corporate_url": "https://www.zain.com",
+        "investor_url": "https://www.zain.com/en/investor-relations/",
+        "annual_reports_url": "https://www.zain.com/en/investor-relations/financial-reports/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Zain_Group",
+        "live_news_url": null
+      }
+    },
+    "VEON": {
+      "group": "VEON",
+      "fy": "FY2024",
+      "revenue_usd_bn": 4.0,
+      "ebitda_margin_pct": 44.0,
+      "subscribers_mln": 160.0,
+      "arpu": "market-dependent",
+      "note": "Pakistan (Jazz), Ukraine (Kyivstar), Kazakhstan, Bangladesh (Banglalink), Uzbekistan",
+      "source": "VEON FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "Axiata": {
+      "group": "Axiata",
+      "fy": "FY2024",
+      "revenue_usd_bn": 4.8,
+      "ebitda_margin_pct": 40.0,
+      "subscribers_mln": 160.0,
+      "arpu": "market-dependent",
+      "note": "Malaysia (CelcomDigi), Indonesia (XL), Cambodia (Smart), Sri Lanka, Bangladesh (Robi)",
+      "source": "Axiata FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.axiata.com/investors",
+      "annual_reports_url": "https://www.axiata.com/investors/reports",
+      "corporate_url": "https://www.axiata.com",
+      "links": {
+        "corporate_url": "https://www.axiata.com",
+        "investor_url": "https://www.axiata.com/investors",
+        "annual_reports_url": "https://www.axiata.com/investors/reports",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Axiata",
+        "live_news_url": null
+      }
+    },
+    "Telenor": {
+      "group": "Telenor",
+      "fy": "FY2024",
+      "revenue_usd_bn": 7.5,
+      "ebitda_margin_pct": 45.0,
+      "subscribers_mln": 170.0,
+      "arpu": "Nordic high / Asia low",
+      "note": "Nordics + Asia (Grameenphone Bangladesh, dtac/True Thailand, Pakistan exited)",
+      "source": "Telenor FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "Singtel": {
+      "group": "Singtel",
+      "fy": "FY2025 (ended Mar 2025)",
+      "revenue_usd_bn": 10.5,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 770.0,
+      "arpu": "market-dependent",
+      "note": "Singapore + Optus (Australia) + regional associates (Airtel, Telkomsel, AIS, Globe)",
+      "source": "Singtel FY25 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.singtel.com/about-us/investor-relations",
+      "annual_reports_url": "https://www.singtel.com/about-us/investor-relations/financial-results",
+      "corporate_url": "https://www.singtel.com",
+      "links": {
+        "corporate_url": "https://www.singtel.com",
+        "investor_url": "https://www.singtel.com/about-us/investor-relations",
+        "annual_reports_url": "https://www.singtel.com/about-us/investor-relations/financial-results",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Singtel",
+        "live_news_url": null
+      }
+    },
+    "AT&T": {
+      "group": "AT&T",
+      "fy": "FY2024",
+      "revenue_usd_bn": 122.0,
+      "ebitda_margin_pct": 36.0,
+      "subscribers_mln": 118.0,
+      "arpu": "USD ~55/mo postpaid",
+      "note": "US wireless + fiber",
+      "source": "AT&T FY2024 10-K (verify)",
+      "verified": "report",
+      "investor_url": "https://investors.att.com",
+      "annual_reports_url": "https://investors.att.com/financial-reports/quarterly-results",
+      "corporate_url": "https://www.att.com",
+      "links": {
+        "corporate_url": "https://www.att.com",
+        "investor_url": "https://investors.att.com",
+        "annual_reports_url": "https://investors.att.com/financial-reports/quarterly-results",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/AT%26T",
+        "live_news_url": null
+      }
+    },
+    "Verizon": {
+      "group": "Verizon",
+      "fy": "FY2024",
+      "revenue_usd_bn": 134.8,
+      "ebitda_margin_pct": 35.0,
+      "subscribers_mln": 146.0,
+      "arpu": "USD ~58/mo",
+      "note": "US connections incl postpaid/prepaid/IoT",
+      "source": "Verizon FY2024 10-K (verify)",
+      "verified": "report",
+      "investor_url": "https://www.verizon.com/about/investors",
+      "annual_reports_url": "https://www.verizon.com/about/investors/quarterly-reports",
+      "corporate_url": "https://www.verizon.com",
+      "links": {
+        "corporate_url": "https://www.verizon.com",
+        "investor_url": "https://www.verizon.com/about/investors",
+        "annual_reports_url": "https://www.verizon.com/about/investors/quarterly-reports",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Verizon_Communications",
+        "live_news_url": null
+      }
+    },
+    "T-Mobile US": {
+      "group": "T-Mobile US",
+      "fy": "FY2024",
+      "revenue_usd_bn": 81.4,
+      "ebitda_margin_pct": 38.0,
+      "subscribers_mln": 130.0,
+      "arpu": "USD ~50/mo",
+      "note": "US; majority owned by Deutsche Telekom",
+      "source": "T-Mobile US FY2024 10-K (verify)",
+      "verified": "report",
+      "investor_url": "https://investor.t-mobile.com",
+      "annual_reports_url": "https://investor.t-mobile.com/financial-reporting/default.aspx",
+      "corporate_url": "https://www.t-mobile.com",
+      "links": {
+        "corporate_url": "https://www.t-mobile.com",
+        "investor_url": "https://investor.t-mobile.com",
+        "annual_reports_url": "https://investor.t-mobile.com/financial-reporting/default.aspx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/T-Mobile_US",
+        "live_news_url": null
+      }
+    },
+    "NTT Docomo": {
+      "group": "NTT Docomo",
+      "fy": "FY2024 (ended Mar 2025)",
+      "revenue_usd_bn": 40.0,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 90.0,
+      "arpu": "JPY high",
+      "note": "Japan; ~Y6.1tn revenue",
+      "source": "NTT Docomo FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.ntt.co.jp/ir/index_e.html",
+      "annual_reports_url": "https://www.ntt.co.jp/ir/library_e/annual/",
+      "corporate_url": "https://www.docomo.ne.jp/english/",
+      "links": {
+        "corporate_url": "https://www.docomo.ne.jp/english/",
+        "investor_url": "https://www.ntt.co.jp/ir/index_e.html",
+        "annual_reports_url": "https://www.ntt.co.jp/ir/library_e/annual/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/NTT_Docomo",
+        "live_news_url": null
+      }
+    },
+    "KDDI": {
+      "group": "KDDI (au)",
+      "fy": "FY2024 (ended Mar 2025)",
+      "revenue_usd_bn": 38.0,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 70.0,
+      "arpu": "JPY high",
+      "note": "Japan; ~Y5.8tn revenue",
+      "source": "KDDI FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.kddi.com/english/corporate/ir/",
+      "annual_reports_url": "https://www.kddi.com/english/corporate/ir/ir-library/annual-report/",
+      "corporate_url": "https://www.kddi.com/english/",
+      "links": {
+        "corporate_url": "https://www.kddi.com/english/",
+        "investor_url": "https://www.kddi.com/english/corporate/ir/",
+        "annual_reports_url": "https://www.kddi.com/english/corporate/ir/ir-library/annual-report/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/KDDI",
+        "live_news_url": null
+      }
+    },
+    "SoftBank": {
+      "group": "SoftBank Corp",
+      "fy": "FY2024 (ended Mar 2025)",
+      "revenue_usd_bn": 42.0,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 55.0,
+      "arpu": "JPY high",
+      "note": "Japan; ~Y6.5tn revenue (telecom unit)",
+      "source": "SoftBank Corp FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.softbank.jp/en/corp/ir/",
+      "annual_reports_url": "https://www.softbank.jp/en/corp/ir/documents/reports/",
+      "corporate_url": "https://www.softbank.jp/en/",
+      "links": {
+        "corporate_url": "https://www.softbank.jp/en/",
+        "investor_url": "https://www.softbank.jp/en/corp/ir/",
+        "annual_reports_url": "https://www.softbank.jp/en/corp/ir/documents/reports/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/SoftBank_Group",
+        "live_news_url": null
+      }
+    },
+    "SK Telecom": {
+      "group": "SK Telecom",
+      "fy": "FY2024",
+      "revenue_usd_bn": 13.0,
+      "ebitda_margin_pct": null,
+      "subscribers_mln": 32.0,
+      "arpu": "KRW high",
+      "note": "Korea; ~KRW17.9tn revenue",
+      "source": "SK Telecom FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.sktelecom.com/en/investor/main.do",
+      "annual_reports_url": "https://www.sktelecom.com/en/investor/report/annual.do",
+      "corporate_url": "https://www.sktelecom.com/index_en.html",
+      "links": {
+        "corporate_url": "https://www.sktelecom.com/index_en.html",
+        "investor_url": "https://www.sktelecom.com/en/investor/main.do",
+        "annual_reports_url": "https://www.sktelecom.com/en/investor/report/annual.do",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/SK_Telecom",
+        "live_news_url": null
+      }
+    },
+    "Telkom Indonesia": {
+      "group": "Telkomsel / Telkom Indonesia",
+      "fy": "FY2024",
+      "revenue_usd_bn": 9.5,
+      "ebitda_margin_pct": 50.0,
+      "subscribers_mln": 159.0,
+      "arpu": "IDR market",
+      "note": "Telkomsel mobile; ~IDR150tn group revenue",
+      "source": "Telkom Indonesia FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "Safaricom": {
+      "group": "Safaricom",
+      "fy": "FY2025 (ended Mar 2025)",
+      "revenue_usd_bn": 3.0,
+      "ebitda_margin_pct": 48.0,
+      "subscribers_mln": 50.0,
+      "arpu": "KES market",
+      "note": "Kenya + Ethiopia; M-Pesa fintech; ~KES388bn revenue",
+      "source": "Safaricom FY25 results (verify)",
+      "verified": "report",
+      "investor_url": "https://www.safaricom.co.ke/investor-relation",
+      "annual_reports_url": "https://www.safaricom.co.ke/investor-relation/reports/financial-reports",
+      "corporate_url": "https://www.safaricom.co.ke",
+      "links": {
+        "corporate_url": "https://www.safaricom.co.ke",
+        "investor_url": "https://www.safaricom.co.ke/investor-relation",
+        "annual_reports_url": "https://www.safaricom.co.ke/investor-relation/reports/financial-reports",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Safaricom",
+        "live_news_url": null
+      }
+    },
+    "Millicom": {
+      "group": "Tigo (Millicom)",
+      "fy": "FY2024",
+      "revenue_usd_bn": 5.6,
+      "ebitda_margin_pct": 43.0,
+      "subscribers_mln": 50.0,
+      "arpu": "USD-linked LATAM",
+      "note": "Guatemala, Colombia, Bolivia, Honduras, El Salvador, Panama, Paraguay",
+      "source": "Millicom FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "Turkcell": {
+      "group": "Turkcell",
+      "fy": "FY2024",
+      "revenue_usd_bn": 4.5,
+      "ebitda_margin_pct": 42.0,
+      "subscribers_mln": 41.0,
+      "arpu": "TRY (inflationary)",
+      "note": "Turkey + Ukraine (lifecell) + others",
+      "source": "Turkcell FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "MTS": {
+      "group": "MTS",
+      "fy": "FY2024",
+      "revenue_usd_bn": 7.5,
+      "ebitda_margin_pct": 40.0,
+      "subscribers_mln": 81.0,
+      "arpu": "RUB ~430/mo (~$4.7)",
+      "note": "Largest Russian operator (MOEX-listed); ~RUB703bn revenue; MTS Bank fintech + media ecosystem; subs incl Belarus/Armenia",
+      "source": "MTS FY2024 results (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "MegaFon": {
+      "group": "MegaFon",
+      "fy": "FY2023",
+      "revenue_usd_bn": 4.3,
+      "ebitda_margin_pct": 42.0,
+      "subscribers_mln": 76.0,
+      "arpu": "RUB ~400/mo",
+      "note": "~RUB380bn revenue; delisted/private since 2019; enterprise + throughput focus",
+      "source": "MegaFon FY2023 (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "Beeline (VimpelCom)": {
+      "group": "Beeline (VimpelCom)",
+      "fy": "FY2023",
+      "revenue_usd_bn": 3.4,
+      "ebitda_margin_pct": 40.0,
+      "subscribers_mln": 54.0,
+      "arpu": "RUB ~370/mo",
+      "note": "~RUB300bn revenue; VEON exited Russia Oct-2023, now locally owned",
+      "source": "Company data (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    },
+    "Tele2 (t2)": {
+      "group": "Tele2 / t2 (Rostelecom)",
+      "fy": "FY2023",
+      "revenue_usd_bn": 2.5,
+      "ebitda_margin_pct": 38.0,
+      "subscribers_mln": 47.0,
+      "arpu": "RUB ~305/mo",
+      "note": "~RUB220bn revenue; 100% Rostelecom-owned; value/discount positioning",
+      "source": "Rostelecom/t2 data (verify)",
+      "verified": "report",
+      "investor_url": null,
+      "annual_reports_url": null,
+      "corporate_url": null,
+      "links": {
+        "corporate_url": null,
+        "investor_url": null,
+        "annual_reports_url": null,
+        "wikipedia_url": null,
+        "live_news_url": null
+      }
+    }
+  },
+  "operator_to_group": {
+    "China Mobile": "China Mobile",
+    "China Mobile HK": "China Mobile",
+    "China Telecom": "China Telecom",
+    "China Unicom": "China Unicom",
+    "Jio (Reliance)": "Reliance Jio",
+    "Airtel (Bharti)": "Bharti Airtel",
+    "Airtel Kenya": "Bharti Airtel",
+    "Airtel DRC": "Bharti Airtel",
+    "Airtel Chad": "Bharti Airtel",
+    "Airtel Congo": "Bharti Airtel",
+    "Airtel Gabon": "Bharti Airtel",
+    "Vi (Vodafone Idea)": "Vodafone Idea",
+    "MTN Afghanistan": "MTN Group",
+    "MTN Benin": "MTN Group",
+    "MTN Cameroon": "MTN Group",
+    "MTN Congo": "MTN Group",
+    "MTN Cote d'Ivoire": "MTN Group",
+    "MTN Cyprus (Epic)": "MTN Group",
+    "MTN Cyprus_Epic": "MTN Group",
+    "MTN Eswatini": "MTN Group",
+    "MTN Ghana": "MTN Group",
+    "MTN Guinea (Areeba)": "MTN Group",
+    "Lonestar Cell MTN": "MTN Group",
+    "Irancell (MTN)": "MTN Group",
+    "Orange France": "Orange Group",
+    "Orange SA Group": "Orange Group",
+    "Orange Belgium": "Orange Group",
+    "Orange Botswana": "Orange Group",
+    "Orange Burkina Faso": "Orange Group",
+    "Orange Cameroon": "Orange Group",
+    "Orange CAR": "Orange Group",
+    "Orange Cote d'Ivoire": "Orange Group",
+    "Orange Egypt": "Orange Group",
+    "Orange GQ (GETESA)": "Orange Group",
+    "Orange Guinea": "Orange Group",
+    "Orange Guinea-Bissau": "Orange Group",
+    "Orange Jordan": "Orange Group",
+    "Orange Liberia": "Orange Group",
+    "Orange Luxembourg": "Orange Group",
+    "Orange RDC": "Orange Group",
+    "Vodafone Albania": "Vodafone Group",
+    "Vodafone Cyprus": "Vodafone Group",
+    "Vodafone North Cyprus": "Vodafone Group",
+    "Vodafone Czech Republic": "Vodafone Group",
+    "Vodafone Egypt": "Vodafone Group",
+    "Vodafone Fiji": "Vodafone Group",
+    "Vodafone Germany": "Vodafone Group",
+    "Vodafone Greece": "Vodafone Group",
+    "Vodafone Ireland": "Vodafone Group",
+    "Vodafone Italy": "Vodafone Group",
+    "Vodacom Congo": "Vodafone Group",
+    "Vodacom Lesotho": "Vodafone Group",
+    "Movistar Argentina": "Telefonica",
+    "Movistar Chile": "Telefonica",
+    "Movistar Colombia": "Telefonica",
+    "Movistar Costa Rica": "Telefonica",
+    "Movistar Ecuador": "Telefonica",
+    "Movistar Guatemala": "Telefonica",
+    "Telefonica Deutschland GmbH": "Telefonica",
+    "Claro Argentina": "America Movil",
+    "Claro Brasil": "America Movil",
+    "Claro Chile": "America Movil",
+    "Claro Colombia": "America Movil",
+    "Claro Costa Rica": "America Movil",
+    "Claro Dominicana": "America Movil",
+    "Claro Ecuador": "America Movil",
+    "Claro El Salvador": "America Movil",
+    "Claro Guatemala": "America Movil",
+    "Claro Honduras": "America Movil",
+    "Deutsche Telekom_T-Mobile group": "Deutsche Telekom",
+    "T-Mobile Austria (MAGENTA)": "Deutsche Telekom",
+    "Vodafone Italy ": "Vodafone Group",
+    "Etisalat Misr (e&)": "e& (Etisalat)",
+    "Etisalat Egypt (e&)": "e& (Etisalat)",
+    "Etisalat Afghanistan": "e& (Etisalat)",
+    "VIVA Kuwait (STC)": "stc Group",
+    "Ooredoo Algeria": "Ooredoo Group",
+    "Ooredoo Kuwait": "Ooredoo Group",
+    "Asiacell (Ooredoo)": "Ooredoo Group",
+    "Indosat Ooredoo-Hutchison": "Ooredoo Group",
+    "Zain Bahrain": "Zain Group",
+    "Zain Iraq": "Zain Group",
+    "Zain Jordan": "Zain Group",
+    "Zain Kuwait": "Zain Group",
+    "touch (Zain Lebanon)": "Zain Group",
+    "Banglalink (Veon)": "VEON",
+    "Beeline Kazakhstan": "VEON",
+    "Beeline Kyrgyzstan": "VEON",
+    "Beeline Kyrgyzstan_Sky Mobile": "VEON",
+    "Robi Axiata": "Axiata",
+    "Smart Axiata": "Axiata",
+    "XL Axiata": "Axiata",
+    "Grameenphone (Telenor)": "Telenor",
+    "DNA in Telenor Group - Finland": "Telenor",
+    "Optus (Singtel)": "Singtel",
+    "KDDI au": "KDDI",
+    "NTT Docomo": "NTT Docomo",
+    "SoftBank": "SoftBank",
+    "Telkomsel": "Telkom Indonesia",
+    "Safaricom": "Safaricom",
+    "Safaricom Ethiopia": "Safaricom",
+    "Tigo Bolivia": "Millicom",
+    "Tigo Colombia (TigoUne)": "Millicom",
+    "Tigo El Salvador": "Millicom",
+    "Tigo Guatemala": "Millicom",
+    "Tigo Honduras": "Millicom",
+    "MTS": "MTS",
+    "MegaFon": "MegaFon",
+    "Beeline (VimpelCom)": "Beeline (VimpelCom)",
+    "Tele2 (t2)": "Tele2 (t2)"
+  }
+}

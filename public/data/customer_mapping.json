@@ -1,0 +1,7034 @@
+[
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Verizon",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Tracfone Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Tracfone Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Verizon Wireless",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Tracfone Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Verizon Wireless",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Tracfone",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Verizon",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon Sourcing LLC",
+    "customer_code": "VERI02"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon Wireless",
+    "customer_code": "VERI01"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon Wireless Network Procurement",
+    "customer_code": "VERI04"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon Wireless USA",
+    "customer_code": "VERI03"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon (UK) Limited",
+    "customer_code": "VERW01"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon",
+    "customer_code": "VERG01"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Cellco Partnership 1 Verizon Way",
+    "customer_code": "CLKOP1"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TracFone Wireless, Inc.",
+    "customer_code": "TFWW01"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TracFone Wireless, Inc.",
+    "customer_code": "TRAG01"
+  },
+  {
+    "logical_customer": "Verizon USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Verizon wireless",
+    "customer_code": "TRKVW1"
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "T-Mobile USA, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "T-Mobile USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "U.S. Cellular",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "T-Mobile USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "U.S. Cellular",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "T-Mobile USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "T-Mobile USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "U.S. Cellular",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "TMobile - USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "T-Mobile USA, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "US Cellular",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "T Mobile USA",
+    "customer_code": "T-MO01"
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Baud Telecom (Saudi Telecom)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Baud Telecom Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "STCS Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Baud Telecom Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "STCS Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Baud Telecom Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Arabian Internet and Communication Services Co.Ltd.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Baud Telecom (Saudi Telecom)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Saudi Telecom Company",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "STC Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "SIRAR BY STC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Arabian Internet and Communication Services Co.Ltd.",
+    "customer_code": "STCS01"
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Jeraisy Computer & Communication Service",
+    "customer_code": "STJW01"
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "EMGS Group",
+    "customer_code": "SAUG01"
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Advanced Technology and Cybersecurity Company (\"SIRAR BY STC\")",
+    "customer_code": "SIRA01"
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "STCS",
+    "customer_code": "STSW01"
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Baud Telecom Company",
+    "customer_code": "BAUD01"
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "NTT Docomo Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "NTT Docomo Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "NTT Communications Corporation Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "NTT Docomo Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "NTT Communications Corporation Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "NTT Docomo Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "NTT Com Asia Ltd.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "NTT Docomo Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "NTT Docomo Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "NTT Docomo Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "NTT Com Asia Ltd.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "NTT Communications Corporation Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NTT Docomo, Inc.",
+    "customer_code": "NTTG03"
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NTT Communications Corporation Japan",
+    "customer_code": "DOCO01"
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NTT Com Asia Ltd.",
+    "customer_code": "NTTG01"
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NTT Com Asia Ltd.",
+    "customer_code": "NTTG02"
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Unitel Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Unitel Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Unitel Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Unitel Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Unitel Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "UNITEL Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Unitel Angola",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Unitel Angola",
+    "customer_code": "UNAW01"
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Unitel SA",
+    "customer_code": "UNAW01"
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Nokia Siemens Tietoliikenne Oy",
+    "customer_code": "UNIT03"
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Unitel - Presta\u00e7\u00e3o de Servi\u00e7os e Telecomunica\u00e7\u00f5es, S.A.",
+    "customer_code": "UTLG01"
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Etisalat",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Etisalat UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Etisalat UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Etisalat UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Emirates Telecommunications Corporation",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Etisalat UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Etisalat UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Etisalat",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Emirates Telecommunications Corporation",
+    "customer_code": "ETIS01"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "NOS Comunica\u00e7\u00f5es",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "NOS Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "NOS Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "NOS Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "NOS Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "NOS COMUNICA\u00c7\u00d5ES",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "NOS Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "NOS Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "NOS Comunica\u00e7\u00f5es",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS COMUNICA\u00c7\u00d5ES",
+    "customer_code": "OPTI01"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS COMUNICA\u00c7\u00d5ES",
+    "customer_code": "OPTI02"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS COMUNICA\u00c7\u00d5ES",
+    "customer_code": "OPTI03"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS COMUNICA\u00c7\u00d5ES",
+    "customer_code": "OPTI04"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS COMUNICA\u00c7\u00d5ES",
+    "customer_code": "OPTI05"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS Technology - Concepcao, Constru",
+    "customer_code": "OPTI06"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS Technology - Concepcao, Constru",
+    "customer_code": "OPTI07"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS Technology - Concepcao, Constru",
+    "customer_code": "OPTI08"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS - Comunica\u00e7\u00f5es, SA",
+    "customer_code": "NOSG01"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS CORPORATE CENTER, S.A.",
+    "customer_code": "NOSG02"
+  },
+  {
+    "logical_customer": "NOS Portugal",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NOS Technology - C.C.G.R.C., S.A.",
+    "customer_code": "NOSG03"
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Deutsche Telekom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Deutsche Telekom_T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Deutsche Telekom/T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Deutsche Telekom_T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Deutsche Telekom/T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Deutsche Telekom/T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Deutsche Telekom/T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Deutsche Telekom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "DTAG Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Deutsche Telekom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Deutsche Telekom AG",
+    "customer_code": "DTAG02"
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Deutsche Telekom AG, T&I, PG 1034",
+    "customer_code": "DTAG03"
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Deutsche Telekom AG",
+    "customer_code": "DTAG04"
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "AT&T Wireless Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "AT&T Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "AT&T Mobility Services LLC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "AT&T Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "AT&T Mobility Services LLC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "AT&T Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "AT&T Mobility Services LLC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "AT&T MOBILITY & AFFILIATES",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "AT&T USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "AT&T Wireless Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "AT&T Mobility & Affiliates",
+    "customer_code": "AT&T01"
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "AT&T MOBILITY & AFFILIATES",
+    "customer_code": "ATTG02"
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "AT&T Mobility Services LLC",
+    "customer_code": "ATTG03"
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "AT&T Services, Inc.",
+    "customer_code": "ATTG04"
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "New Cingular Wireless PCS,LLC",
+    "customer_code": "ATNTC1"
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Orange France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Orange France S.A.",
+    "customer_code": "ORAN02"
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Vodafone Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Vodafone Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Vodafone Australia (TPG)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "VHA-Vodafone Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Vodafone Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TPG Telecom Limited",
+    "customer_code": "TPGG01"
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TechMahindra India - VHAustralia",
+    "customer_code": "TCMW01"
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TPG Internet Pty Limited",
+    "customer_code": "TPGI01"
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Vodafone Australia",
+    "customer_code": "VODA15"
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Optus",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Optus Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Optus Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Optus Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Optus Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Optus Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Optus",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Optus Australia",
+    "customer_code": "OPTU01"
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Optus Administration Pty Ltd",
+    "customer_code": "OPTG04"
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Grameenphone",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "GRAMEENPHONE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Grameenphone Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Grameenphone Ltd",
+    "customer_code": "GPHW01"
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Syniverse Technologies Inc",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Syniverse USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Syniverse USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Syniverse USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Syniverse USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Syniverse USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Syniverse Technologies Inc",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Syniverse",
+    "customer_code": "SYNI01"
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Syniverse Technologies Inc ($)",
+    "customer_code": "SYNI001"
+  },
+  {
+    "logical_customer": "Syniverse USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Syniverse Technologies LLC",
+    "customer_code": "SYNI01"
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Dish Network",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Dish Network US",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Dish Network US",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Dish Network US",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Dish Network US",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Dish USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Dish Network",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Dish Network US",
+    "customer_code": "DNUW01"
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "TELUS",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telus Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telus Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telus Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telus Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "TELUS Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "TELUS",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TELUS Communications Inc",
+    "customer_code": "TELU01"
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "SingTel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "SingTel Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "SingTel Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "SingTel Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "SingTel Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Singtel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Singtel Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Singtel Singapore - Fixed",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Singtel Singapore - Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "SingTel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Singtel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Singtel Mobile Singapore Pte Ltd",
+    "customer_code": "SMSG01"
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Softbank Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "SoftBank Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "SoftBank Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "SoftBank Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "SoftBank Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Softbank Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Softbank Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "SOFTBANK CORP",
+    "customer_code": "SOFT01"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Telkomsel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telkomsel Indonesia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "PT ARGA SOLUSI TECHNOLOGIES",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telkomsel Indonesia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "PT ARGA SOLUSI TECHNOLOGIES",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telkomsel Indonesia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telkomsel Indonesia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telkomsel Indonesia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Telkomsel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PT. Telekomunikasi Selular",
+    "customer_code": "TELK01"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Gratika",
+    "customer_code": "TKGR01"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PT Graha Informatika Nusantara",
+    "customer_code": "GRTK01"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PT ARGA SOLUSI TECHNOLOGIES",
+    "customer_code": "TKSG01"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PT Telekomunikasi Selular - Telkomsel",
+    "customer_code": "TKSG02"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PT. Telekomunikasi Selular",
+    "customer_code": "TELE01"
+  },
+  {
+    "logical_customer": "Telkomsel Indonesia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PT. Sigma Cipta Caraka",
+    "customer_code": "TKIA01"
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Etihad Etisalat",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Mobily Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Mobily Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Mobily Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Etihad Etisalat Company",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Mobily Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Mobily Etihad Etisalat",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Mobily KSA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Etihad Etisalat",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Mobily (Etihad Etisalat Company)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "ETIHAD ETISALAT COMPANY",
+    "customer_code": "ETIH01"
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Rakuten Mobile Network Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Rakuten Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Rakuten Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Rakuten Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Rakuten Mobile Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Rakuten Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Rakuten",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Rakuten Mobile Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Rakuten Mobile Network Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Rakuten Mobile Inc.",
+    "customer_code": "RAKU01"
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "True Move Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "True Move Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "T3 Technology Co ,Ltd",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "True Move Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "T3 Technology Co ,Ltd",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "True Corporation Public Company Limited",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "T3 Technology Co ,Ltd",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "True Move Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "True Move Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "True Move - Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "True Move Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "T3 Technology Co ,Ltd",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "True Corporation Public Company Limited",
+    "customer_code": "0TAO01"
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PPLUS Visions",
+    "customer_code": "TRUG01"
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "True Move H Universal Communication Co.,Ltd.",
+    "customer_code": "TRUG02"
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "T3 Technology co.",
+    "customer_code": "TMTHA1"
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "T3 Technology Co ,Ltd",
+    "customer_code": "T3TCH1"
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Orange Middle East and Africa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Orange Senegal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Orange Senegal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Orange Middle East and Africa S.A. (OMEA S.A.)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Orange Senegal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Orange Middle East and Africa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Orange Senegal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Orange Middle East and Africa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Orange Middle East and Africa S.A. (OMEA S.A.)",
+    "customer_code": "OMEW01"
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "DU (EITC)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "EITC, PJSC (DU UAE / Dubai)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "DU Dubai",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "DU (EITC)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "EITC, PJSC (DU UAE / Dubai)",
+    "customer_code": "00DU01"
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "EITC, PJSC",
+    "customer_code": "DU01"
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Orange Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Orange Espagne S.A.U.",
+    "customer_code": "MAOR01"
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "ORANGE ESPAGNE, S.A.U - Procurement Center",
+    "customer_code": "ORAN15"
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "ORANGE ESPAGNE, S.A.U - Procurement Center",
+    "customer_code": "ORAN22"
+  },
+  {
+    "logical_customer": "Orange Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "ORANGE ESPAGNE, S.A.U - Procurement Center",
+    "customer_code": "ORAN23"
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Telstra Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telstra Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telstra Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telstra Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telstra Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telstra Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Telstra",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telstra Corporation Limited",
+    "customer_code": "TELS01"
+  },
+  {
+    "logical_customer": "Telstra Australia",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telstra Corporation Ltd",
+    "customer_code": "TTAG01"
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Taiwan Mobile Taiwan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Taiwan Mobile Co. Ltd",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "InterASIA Solutions Inc.",
+    "customer_code": "0TWM01"
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Ellipsiz Communications Taiwan Ltd.",
+    "customer_code": "TAIG02"
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Inpro Technologies Corp.",
+    "customer_code": "TAIG03"
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Taiwan Mobile",
+    "customer_code": "0TWM01"
+  },
+  {
+    "logical_customer": "Taiwan Mobile Taiwan",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Taiwan Mobile Co. Ltd",
+    "customer_code": "TAIG03"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "TIM Italy",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telecom Italia Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telecom Italia Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telecom Italia Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telecom Italia RL3",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "TIM Sparkle Italy",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telecom Italia S.p.A.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "TIM Sparkle Italy",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "TELECOM ITALIA SPARKLE S.P.A",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "T.I. Sparkl",
+    "customer_code": "0TIS01"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telecom Italia Sparkle s.p.a.",
+    "customer_code": "0TIS03"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NTT Data Italia (end Customer Telecom Italia)",
+    "customer_code": "NDTW01"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Sparkle Telecom Italia",
+    "customer_code": "STIW01"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telecom Italia S.p.A",
+    "customer_code": "TLIW01"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telecom Italia S.p.A.",
+    "customer_code": "TEMG09"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telecom Italia Sparkle S.p.A.",
+    "customer_code": "TEMG10"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telecom Italia Sparkle s.p.a.",
+    "customer_code": "TIMI01"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "T.I. Sparkl",
+    "customer_code": "TIS01"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telecom Italia Sparkle s.p.a.",
+    "customer_code": "TIS03"
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "NTT DATA Italia (Value Team)",
+    "customer_code": "TNTT01"
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Claro Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Claro Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Claro Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Claro Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Claro Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Claro Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "AMX ARGENTINA Sociedad An\u00f3nima",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Claro (America Movil) Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Clarity Telecom",
+    "customer_code": "CLAR02"
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "AMX ARGENTINA Sociedad An\u00f3nima",
+    "customer_code": "AMXG01"
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "PLANEX S.A.",
+    "customer_code": "AMXG02"
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TELMEX ARGENTINA S.A.",
+    "customer_code": "TLMAX1"
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Bell Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Bell Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Bell Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Bell Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "BELL Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Bell Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "BELL MOBILITY",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Bell Canada",
+    "customer_code": "BELL01"
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Bell Mobility / Bell Mobilit\u00e9",
+    "customer_code": "BELG04"
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "TeliaSonera Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telia Company (Group) - Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telia Company (Group) - Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telia Company (Group) - Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telia Company",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telia Company",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "TeliaSonera Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TeliaSonera Mobile Networks AB",
+    "customer_code": "TELI01"
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "AS Eesti Telekom",
+    "customer_code": "EEST01"
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "TeliaSonera Group Nordic",
+    "customer_code": "TSAG01"
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telia Sverige AB",
+    "customer_code": "TESV01"
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "America Movil Group Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "America Movil Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "America Movil Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "America Movil Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "America Movil Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "America Movil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "America Movil Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "America Movil Group",
+    "customer_code": "AMG001"
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "America Movil Group",
+    "customer_code": "AMG01"
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Latam Telecommunications, L.L.C",
+    "customer_code": "LTMCL1"
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica International Wholesale Services S.L.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica Group Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica International Wholesale Services S.L.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica Group Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telefonica International Wholesale Services S.L.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telefonica Group Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telefonica Global Services",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telefonica Group Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "TIWS - Telef\u00f3nica International",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "TIWS - Telefonica International",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Telefonica Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telef\u00f3nica Internacional - IBERIA SPAIN",
+    "customer_code": "TBSW01"
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telef\u00f3nica de Espa\u00f1a, S.A.U.",
+    "customer_code": "TESW01"
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telef\u00f3nica de Espa\u00f1a SAU",
+    "customer_code": "TFCG03"
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telefonica Moviles Espana",
+    "customer_code": "TFCG04"
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telefonica International Wholesale Services S.L.",
+    "customer_code": "TFCG09"
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telefonica Group Spain",
+    "customer_code": "TGSG01"
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Bayobab (MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "MTN Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "MTN Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "MTN GlobalConnect",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "MTN Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "MTN Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "MTN GlobalConnect",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": "MTGC01"
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Telcel Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telcel Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telcel Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telcel Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telcel Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telcel Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "TELCEL",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Radiomovil DIPSA, S.A. de C.V.",
+    "customer_code": "TELC01"
+  },
+  {
+    "logical_customer": "Telcel Mexico",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Radio Movil Dipsa SA de CV",
+    "customer_code": "RADG01"
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "OINIS France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "OINIS France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "OINIS France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "OINIS France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "OINIS France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "OINIS Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Orange Communications Luxembourg SA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "OINIS France",
+    "customer_code": "ORAN19"
+  },
+  {
+    "logical_customer": "OINIS France",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Orange Communications Luxembourg S.A.",
+    "customer_code": "ORAN19"
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Top 25 Customers Health Dashboard",
+    "sheet": "Top25 Cust Health",
+    "field": "Customer Name",
+    "value": "Telefonica Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica Deutschland GmbH",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Account Name",
+    "value": "Telefonica Deutschland GmbH",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Account",
+    "value": "Telefonica Deutschland GmbH",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "SFDC Account Name",
+    "value": "Telefonica Deutschland GmbH",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "Telefonica Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Customer",
+    "value": "O2 Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "Telefonica Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "Customer Name",
+    "value": "O2 Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "O2 Germany",
+    "customer_code": "OGNW01"
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telef\u00f3nica Germany GmbH & Co.OHG",
+    "customer_code": "TFCG05"
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Customer name as per GP",
+    "value": "Telefonica Global Roaming GmbH",
+    "customer_code": "TFCG06"
+  },
+  {
+    "logical_customer": "Zain Saudi Arabia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain KSA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Zain Saudi Arabia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Zain Saudi Arabia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain Saudi Arabia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Saudi Arabia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "STC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobily Saudi Arabia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Mobily",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel DRC",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Congo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel DRC",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel DRCongo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel DRC",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel DRC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Cote d'Ivoire",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Ivory Coast",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Cote d'Ivoire",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Ivory Coast",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Africa CI",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Ivory Coast",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Dominicana",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Dominican Republic",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Altice Dominicana",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Altice Dominican Republic",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish Wireless",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Dish Network US",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish Wireless",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Dish",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Syniverse",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Syniverse USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Tracfone Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile US",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "T-Mobile USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T Mobility",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AT&T USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T Mobility",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AT&T Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "UScellular (acquired by T-Mobile, Aug 2025)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "U.S. Cellular",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Three UK",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "3 UK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Roaming Services",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone UK",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone UK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BT Group UK",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "BT Group UK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Everything Everywhere UK",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Everything Everywhere UK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "du",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "e& (Etisalat)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Etisalat UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel (Bharti)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BSNL",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "BSNL India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Jio (Reliance)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Reliance Jio Infocomm India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vi (Vodafone Idea)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Lanka",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Sri Lanka",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobitel (SLT)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Mobitel Sri Lanka",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "2degrees",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "2 Degrees Mobile New Zealand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "One NZ (Vodafone NZ)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "ONE New Zealand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Spark NZ",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Spark New Zealand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Chad",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Chad",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Gabon",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Gabon",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel India",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel (Bharti)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel India",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Airtel India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Kenya",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Kenya",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Madagascar",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Madagascar",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Malawi",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Malawi",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Niger",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Niger",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Nigeria",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Nigeria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Rwanda",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Rwanda",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Seychelles",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Cable & Wireless (Airtel Seychelles)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Seychelles",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Airtel Seychelles",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Sri Lanka",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Lanka",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Sri Lanka",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Airtel Sri Lanka",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Tanzania",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Tanzania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Uganda",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Uganda",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Airtel Zambia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Zambia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Atlantique T\u00e9l\u00e9com Togo",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa Togo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Atlantique T\u00e9l\u00e9com Togo",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Atlantique T\u00e9l\u00e9com Togo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (former MTN GlobalConnect)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Virgin Mobile UAE (MVNO/Beyond ONE)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (former MTN GlobalConnect)",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Bayobab (former MTN GlobalConnect)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BoFiNet (Botswana Fibre Networks)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "BTC (beMobile)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BoFiNet (Botswana Fibre Networks)",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "BoFiNet (Botswana Fibre Networks)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BSNL India",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "BSNL",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BSNL India",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "BSNL India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Cellcom Israel",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Cellcom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Cellcom Israel",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Cellcom Israel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Celtel Burkina Faso",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa BF",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Celtel Burkina Faso",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Celtel Burkina Faso",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Celtel Niger S.A.",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Airtel Niger",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Celtel Niger S.A.",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Celtel Niger S.A.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Econet Wireless Zimbabwe",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Econet Wireless",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Econet Wireless Zimbabwe",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Econet Wireless Zimbabwe",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Eritel Eritrea",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Eritel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Eritel Eritrea",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Eritel Eritrea",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ethio Telecom",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ethio Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Monogoto Israel",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Cellcom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Monogoto Israel",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Monogoto Israel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Burkina Faso (Onatel)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa BF",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Burkina Faso (Onatel)",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Moov Burkina Faso (Onatel)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Central African Republic",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa CAR",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Central African Republic",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Moov Central African Republic",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Ivory Coast",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa CI",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Ivory Coast",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Moov Ivory Coast",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Niger",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa Niger",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Niger",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Moov Niger",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Togo",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Moov Africa Togo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Moov Togo",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Moov Togo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTC Namibia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTC Namibia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "MTC Namibia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Benin",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Benin",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Cameroon",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Cameroon",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Ghana",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Ghana",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN South Africa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Group",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "MTN Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN Nigeria",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Nigeria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MTN South Africa",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN South Africa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "National Communications Authority (NCA) Ghana",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Ghana",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "National Communications Authority (NCA) Ghana",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "National Communications Authority (NCA) Ghana",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NetOne Zimbabwe",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "NetOne",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NetOne Zimbabwe",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "NetOne Zimbabwe",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Nigerian Communications Commission",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN Nigeria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Nigerian Communications Commission",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Nigerian Communications Commission",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Burkina Faso",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Burkina Faso",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Guinea Republic",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Guinea",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Guinea Republic",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Orange Guinea Republic",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Mali",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Mali",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Senegal",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Sonatel (Orange)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Senegal",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Orange Senegal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Partner Israel",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Partner Communications",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Partner Israel",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Partner Israel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Pelephone Communication Israel",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Bezeq (Pelephone)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Pelephone Communication Israel",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Pelephone Communication Israel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "POTRAZ - The Postal and Telecommunications Regulatory Authority of Zimbabwe - Sigos",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Econet Wireless",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "POTRAZ - The Postal and Telecommunications Regulatory Authority of Zimbabwe - Sigos",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "POTRAZ - The Postal and Telecommunications Regulatory Authority of Zimbabwe - Sigos",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Reliance Jio Infocomm India",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Jio (Reliance)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Reliance Jio Infocomm India",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Reliance Jio Infocomm India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Safaricom Kenya",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Safaricom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Safaricom Kenya",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Safaricom Kenya",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Namibia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TN Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Namibia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Telecom Namibia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Tigo Tanzania",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Tigo (Yas) Tanzania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Tigo Tanzania",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Tigo Tanzania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TNM Malawi",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TNM",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TNM Malawi",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "TNM Malawi",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Togo Cellulaire",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Togocom (Yas)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Togo Cellulaire",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Togo Cellulaire",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "VM S.A. (Vodacom Mozambique)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodacom Mozambique",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "VM S.A. (Vodacom Mozambique)",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "VM S.A. (Vodacom Mozambique)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodacom Congo",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodacom Congo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodacom South Africa",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodacom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodacom South Africa",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Vodacom South Africa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodacom Tanzania",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodacom Tanzania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone India",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vi (Vodafone Idea)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone India",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Vodafone India",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Webbing/Telroaming Advanced Communication Solution Ltd.",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Cellcom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Webbing/Telroaming Advanced Communication Solution Ltd.",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Webbing/Telroaming Advanced Communication Solution Ltd.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "2 Degrees Mobile New Zealand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "2degrees",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "2 Degrees Mobile New Zealand",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "2 Degrees Mobile New Zealand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AIS Advanced Info Service Thailand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AIS (Advanced Info Service)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AIS Advanced Info Service Thailand",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "AIS Advanced Info Service Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Banglalink Bangladesh",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Banglalink (Veon)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Banglalink Bangladesh",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Banglalink Bangladesh",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "CelcomDigi",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "CelcomDigi (merged)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "CelcomDigi",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "CelcomDigi",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Mobile Hong Kong",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "China Mobile HK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Mobile Hong Kong",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "China Mobile Hong Kong",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Mobile International Hong Kong",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "China Mobile HK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Mobile International Hong Kong",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "China Mobile International Hong Kong",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Telecom",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "China Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Telecom Global",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "China Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Telecom Global",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "China Telecom Global",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "China Unicom",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "China Unicom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Chunghwa Telecom Taiwan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Chunghwa Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Chunghwa Telecom Taiwan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Chunghwa Telecom Taiwan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dhiraagu Maldives",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Dhiraagu",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dhiraagu Maldives",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Dhiraagu Maldives",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "DTAC Thailand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "DTAC (now merged with True)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "DTAC Thailand",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "DTAC Thailand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "FarEasTone Taiwan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Far EasTone",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "FarEasTone Taiwan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "FarEasTone Taiwan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Globe Telecom Philippines",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Globe Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Globe Telecom Philippines",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Globe Telecom Philippines",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Grameenphone Bangladesh",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Grameenphone (Telenor)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Hutchison Hong Kong",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "CSL (HKT)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Hutchison Hong Kong",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Hutchison Hong Kong",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Indosat Indonesia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Indosat Ooredoo-Hutchison",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Indosat Indonesia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Indosat Indonesia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "KDDI Japan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "KDDI au",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "KDDI Japan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "KDDI Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "KT Corporation South Korea",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "KT Corporation",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "KT Corporation South Korea",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "KT Corporation South Korea",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "LG Uplus Korea",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "LG Uplus",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "LG Uplus Korea",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "LG Uplus Korea",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "M1 Singapore",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "M1 (Keppel)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "M1 Singapore",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "M1 Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Maxis Malaysia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Maxis",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Maxis Malaysia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Maxis Malaysia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobifone Corporation",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Mobifone",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobifone Corporation",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Mobifone Corporation",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobitel Sri Lanka",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Mobitel (SLT)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobitel Sri Lanka",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Mobitel Sri Lanka",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Communications Corporation Japan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "NTT Docomo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Communications Corporation Japan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "NTT Communications Corporation Japan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NTT Docomo Japan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "NTT Docomo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "ONE New Zealand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "One NZ (Vodafone NZ)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "ONE New Zealand",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "ONE New Zealand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Maldives",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ooredoo Maldives",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Optus Australia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Optus (Singtel)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "PCCW Hong Kong",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "CSL (HKT)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "PCCW Hong Kong",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "PCCW Hong Kong",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "SoftBank",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SIMBA Telecom Singapore",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Singtel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SIMBA Telecom Singapore",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "SIMBA Telecom Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Smartfren",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telkomsel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Smartfren",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Smartfren",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SmarTone Hong Kong",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "SmarTone",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SmarTone Hong Kong",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "SmarTone Hong Kong",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SoftBank Japan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "SoftBank",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Spark New Zealand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Spark NZ",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Spark New Zealand",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Spark New Zealand",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "StarHub Singapore",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "StarHub",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "StarHub Singapore",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "StarHub Singapore",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Taiwan Mobile",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Taiwan Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Telecom Australia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TPG Telecom (Vodafone AU)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Telecom Australia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "TPG Telecom Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "True Move H (True Corp)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unified National Networks (UNN) Brunei",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "DST Communications",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unified National Networks (UNN) Brunei",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Unified National Networks (UNN) Brunei",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Viettel Group - Viettel Corporation",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Viettel Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Viettel Group - Viettel Corporation",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Viettel Group - Viettel Corporation",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "VNPT Vietname",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vinaphone (VNPT)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "VNPT Vietname",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "VNPT Vietname",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vocus Communications Australia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telstra",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vocus Communications Australia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Vocus Communications Australia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "1&1 Mobilfunk",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "1&1 Mobilfunk",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "3 Ireland",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "3 Ireland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "3 Tre - Sweden",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Tele2 - Sweden (Group)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "3 Tre - Sweden",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "3 Tre - Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "3 UK",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Three UK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "3 UK",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "3 UK",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "A1 Austria",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "A1 Austria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Azercell Azerbaijan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Azercell Azerbaijan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AzerConnect Azerbaijan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Azerconnect Group LLC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AzerConnect Azerbaijan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "AzerConnect Azerbaijan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Beeline Uzbekistan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Beeline Uzbekistan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "BICS Belgium",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "BICS Belgium",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bouygues Telecom France",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Bouygues Telecom France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Comfone AG",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Comfone AG",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom/T-Mobile group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Deutsche Telekom_T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom/T-Mobile group",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Deutsche Telekom/T-Mobile group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "DSTelecom Portugal",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "DSTelecom Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Elisa Finland",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Elisa Finland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Hutchison Whampoa 3G IP S.a.R.L",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Roaming Services",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Hutchison Whampoa 3G IP S.a.R.L",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Hutchison Whampoa 3G IP S.a.R.L",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "KPN Netherlands",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "KPN Netherlands",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Kyivstar Ukraine",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Kyivstar Ukraine",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Liberty Global Netherlands",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Liberty Global Netherlands",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mas Movil Telecom- Yoigo Spain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Mas Movil Telecom- Yoigo Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "MEO Portugal",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MEO Portugal",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "NOVA - Iceland",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "NOVA - Iceland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Odido Netherlands B.V",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Odido Netherlands B.V",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Poland",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Poland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Romania",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Romania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SFR France",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "SFR France",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Sunrise Switzerland",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Sunrise Switzerland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Swisscom Switzerland",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Swisscom Switzerland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Italia Group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telecom Italia Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Deutschland GmbH",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telefonica Deutschland GmbH",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Group Spain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telefonica International Wholesale Services S.L.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Group Spain",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Telefonica Group Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica International Wholesale Services S.L.",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telefonica International Wholesale Services S.L.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telia Company (Group) - Sweden",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telia Company (Group) - Sweden",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Turk Telekom",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Turk Telekom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ucell Uzbekistan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ucell Uzbekistan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "VEON Wholesale Services Netherlands",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "VEON Wholesale Services Netherlands",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Albania",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Albania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Germany",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Germany",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Roaming Services",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Roaming Services",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Vodafone Roaming Services",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Romania",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Romania",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Spain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Spain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Turkey",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Turkey",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "VodafoneZiggo Netherlands",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "VodafoneZiggo Netherlands",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Wind Tre Italy",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Wind Tre Italy",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Algar Telecom (CTBC) Brazil",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Algar Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Algar Telecom (CTBC) Brazil",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Algar Telecom (CTBC) Brazil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Altice Dominican Republic",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Altice Dominicana",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Altice Dominican Republic",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Altice Dominican Republic",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telcel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "America Movil Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T Mexico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AT&T Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "C&W Puerto Rico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Liberty Puerto Rico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "C&W Puerto Rico",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "C&W Puerto Rico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Cable & Wireless Jamaica",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Flow Jamaica",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Cable & Wireless Jamaica",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Cable & Wireless Jamaica",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Cable & Wireless Panama",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Tigo Panama",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Cable & Wireless Panama",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Cable & Wireless Panama",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Brazil",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Brasil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Brazil",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Claro Brazil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Chile",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Chile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Ecuador",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Ecuador",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Guatemala",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Guatemala",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Honduras",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Honduras",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Panama",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Panama",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Paraguay",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Paraguay",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Peru",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Per\u00fa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Peru",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Claro Peru",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Puerto Rico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Puerto Rico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Digitel Venezuela",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Digitel Venezuela",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Entel Chile",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Entel Chile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Entel Peru",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Entel Per\u00fa",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Entel Peru",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Entel Peru",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "iZZi Telecom / Cablevision Mexico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telcel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "iZZi Telecom / Cablevision Mexico",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "iZZi Telecom / Cablevision Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Liberty Costa Rica",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Movistar Costa Rica",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Liberty Costa Rica",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Liberty Costa Rica",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Millicom Colombia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Tigo Colombia (TigoUne)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Millicom Colombia",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Millicom Colombia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Millicom GROUP LATAM",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Roaming Services",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Millicom GROUP LATAM",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Millicom GROUP LATAM",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Millicom/Tigo Guatemala",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Tigo Guatemala",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Millicom/Tigo Guatemala",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Millicom/Tigo Guatemala",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Movistar Ecuador",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Movistar Ecuador",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Oi Telecom Brazil",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Oi Brasil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Oi Telecom Brazil",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Oi Telecom Brazil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SKY Brazil",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro Brasil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SKY Brazil",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "SKY Brazil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Argentina",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Personal (Telecom)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Argentina",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Telecom Argentina",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Mexico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Movistar Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Mexico",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Telefonica Mexico",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Venezuela",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Movistar Venezuela",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Venezuela",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Telefonica Venezuela",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Brazil",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TIM Brasil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Brazil",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "TIM Brazil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vivo Brazil",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vivo",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vivo Brazil",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Vivo Brazil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "WOM Chile",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "WOM Chile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Asiacell Communications PJSC",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Asiacell (Ooredoo)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Asiacell Communications PJSC",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Asiacell Communications PJSC",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Asiacell Iraq",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Asiacell (Ooredoo)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Asiacell Iraq",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Asiacell Iraq",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Batelco Bahrain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Batelco",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Batelco Bahrain",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Batelco Bahrain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Djezzy Algeria",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Djezzy (Optimum)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Djezzy Algeria",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Djezzy Algeria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "du EITC UAE",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "du",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "du EITC UAE",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "du EITC UAE",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat Egypt",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Etisalat Misr (e&)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat Egypt",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Etisalat Egypt",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "e& (Etisalat)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "INWI Morocco",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Inwi",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "INWI Morocco",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "INWI Morocco",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Jazz Pakistan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Jazz (Veon)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Jazz Pakistan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Jazz Pakistan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Maroc Telecom",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Maroc Telecom (IAM)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Maroc Telecom",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Maroc Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobilis Algeria",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Mobilis (ATM)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Mobilis Algeria",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Mobilis Algeria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Omantel",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Omantel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Algeria",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ooredoo Algeria",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ooredoo Qatar",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Group",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Ooredoo Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Kuwait",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ooredoo Kuwait",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Oman",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ooredoo Oman",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Q.S.C",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Ooredoo Qatar",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Ooredoo Q.S.C",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Ooredoo Q.S.C",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Egypt",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "WE (Telecom Egypt)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Egypt",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Orange Egypt",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Jordan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange Jordan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Bahrain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "VIVA Bahrain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Bahrain",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "STC Bahrain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Kuwait",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "VIVA Kuwait (STC)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "STC Kuwait",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "STC Kuwait",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Egypt",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "WE (Telecom Egypt)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telecom Egypt",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Telecom Egypt",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Umniah Jordan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Umniah",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Umniah Jordan",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Umniah Jordan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Egypt",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "WE (Telecom Egypt)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Egypt",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Vodafone Egypt",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Oman",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Oman",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Vodafone Qatar",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Vodafone Qatar",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Zain Bahrain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain Bahrain",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Zain Iraq",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain Iraq",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Zain Jordan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain Jordan",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Zain Kuwait",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Zain Kuwait",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T Services, Inc.",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AT&T Mobility",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T Services, Inc.",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "AT&T Services, Inc.",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AT&T Mobility",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Digicel Caribbean",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Digicel Jamaica",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Digicel Caribbean",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Digicel Caribbean",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Digicel Group",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Digicel Jamaica",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Digicel Group",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Digicel Group",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Freedom Mobile Canada",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Freedom Mobile (Quebecor)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Freedom Mobile Canada",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Freedom Mobile Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rogers Communications Canada",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Rogers",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rogers Communications Canada",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Rogers Communications Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SaskTel Canada",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telus",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SaskTel Canada",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "SaskTel Canada",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "T-Mobile US",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Tracfone Wireless USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Verizon",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Tracfone Wireless USA",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Tracfone Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "U.S. Cellular",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "UScellular (acquired by T-Mobile, Aug 2025)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "U.S. Cellular",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "U.S. Cellular",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon Wireless USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Verizon",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Verizon Wireless USA",
+    "file_name": "skygeni.xlsx",
+    "sheet": "Sheet1",
+    "field": "Account_Name",
+    "value": "Verizon Wireless USA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "T-Mobile USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "T-Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "AT&T USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "AT&T",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Dish Wireless",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Dish USA",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Dish",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Rakuten Japan",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Rakuten Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Unitel Angola",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Unitel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Deutsche Telekom Germany",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telekom Deutschland",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Germany",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telef\u00f3nica Deutschland (O2)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TPG Telecom (Vodafone AU)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TPG Australia",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TPG Telecom",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange France",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Etisalat UAE",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "e&",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Du UAE",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "du",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TELUS Canada",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TELUS Mobility",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bell Canada",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Bell",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "True Move Thailand",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TrueMove H",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Telefonica Spain",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telef\u00f3nica Espa\u00f1a (Movistar)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "SingTel Singapore",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Singtel Mobile",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Sonatel (Orange)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Orange Middle East and Africa",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Orange MEA",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TIM (Telecom Italia)",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TIM Italy",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "TIM",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Claro Argentina",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Claro",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telia Sverige",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "TeliaSonera Sweden",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telia",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Telcel",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "America Movil Group Mexico",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "Am\u00e9rica M\u00f3vil",
+    "customer_code": null
+  },
+  {
+    "logical_customer": "Bayobab (MTN GlobalConnect)",
+    "file_name": "Website Master Telecom",
+    "sheet": "Operators",
+    "field": "Operator Name",
+    "value": "MTN",
+    "customer_code": null
+  }
+]

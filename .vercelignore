@@ -1,0 +1,7 @@
+# Ignore server-only code and heavy assets on Vercel deployment
+api/
+scripts/
+scratch/
+server.js
+data-source/*.xlsx
+

@@ -1,0 +1,188 @@
+[
+  {
+    "kpi_name": "Behavorial",
+    "part": null,
+    "weight": null,
+    "rule": null
+  },
+  {
+    "kpi_name": "CS & MS Tickets",
+    "part": "Maximum Age of Currently Open S1 & S2",
+    "weight": "ServiceNow",
+    "rule": 5
+  },
+  {
+    "kpi_name": "CS & MS Tickets",
+    "part": "Total S1 Tickets created last 3 months",
+    "weight": "ServiceNow",
+    "rule": 0
+  },
+  {
+    "kpi_name": "CS & MS Tickets",
+    "part": "Total S2 Tickets created last 3 months",
+    "weight": "ServiceNow",
+    "rule": 0
+  },
+  {
+    "kpi_name": "CS & MS Tickets",
+    "part": "Total S3 Tickets created last 3 months",
+    "weight": "ServiceNow",
+    "rule": 0
+  },
+  {
+    "kpi_name": "CS & MS Tickets",
+    "part": "Total S1+S2+S3 Tickets created last 3 months",
+    "weight": "ServiceNow",
+    "rule": 5
+  },
+  {
+    "kpi_name": "CS & MS Tickets",
+    "part": "S1 & S2 SLA Breaches (Last 3 months)",
+    "weight": "ServiceNow",
+    "rule": 2
+  },
+  {
+    "kpi_name": "Defects",
+    "part": "Critical + Major Defects Currently Open",
+    "weight": "Jira",
+    "rule": 10
+  },
+  {
+    "kpi_name": "GDS Projects",
+    "part": "Open Delivery Projects",
+    "weight": "Operations",
+    "rule": 0
+  },
+  {
+    "kpi_name": "GDS Projects",
+    "part": "# Projects In Progress Delayed more than 3 Quarters",
+    "weight": "Operations",
+    "rule": 12
+  },
+  {
+    "kpi_name": "Product Adoption",
+    "part": "# Normalized Product Name_Latest Last 3 Months One Year Ago",
+    "weight": "Revenue Cube",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Product Adoption",
+    "part": "# Normalized Product Name_Latest Last 3 Months",
+    "weight": "Revenue Cube",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Product Adoption",
+    "part": "# Products last 3 months compared to the same one year ago",
+    "weight": "Revenue Cube",
+    "rule": 3
+  },
+  {
+    "kpi_name": "Financial",
+    "part": null,
+    "weight": null,
+    "rule": null
+  },
+  {
+    "kpi_name": "Revenues",
+    "part": "Non-Recurring Revenue last 12 months one year ago",
+    "weight": "Revenue Cube",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Revenues",
+    "part": "Non-Recurring Revenue last 12 months",
+    "weight": "Revenue Cube",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Revenues",
+    "part": "Non-Recurring Revenue last 12 months compared to the same one year ago",
+    "weight": "Revenue Cube",
+    "rule": 2
+  },
+  {
+    "kpi_name": "Revenues",
+    "part": "Recurring Revenue Last 12 Months one year ago",
+    "weight": "Revenue Cube",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Revenues",
+    "part": "Recurring Revenue Last 12 Months",
+    "weight": "Revenue Cube",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Revenues",
+    "part": "Recurring Revenue last 12 months compared to the same one year ago",
+    "weight": "Revenue Cube",
+    "rule": 8
+  },
+  {
+    "kpi_name": "Billing",
+    "part": ">90 days Accounts Receivable",
+    "weight": "Collections",
+    "rule": 5
+  },
+  {
+    "kpi_name": "Bookings",
+    "part": "Bookings Last 12 Months one year ago",
+    "weight": "SFDC",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Bookings",
+    "part": "Bookings Last 12 Months",
+    "weight": "SFDC",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Bookings",
+    "part": "Pipeline 70% and above one year ago",
+    "weight": "SFDC",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Bookings",
+    "part": "Pipeline 70% and above",
+    "weight": "SFDC",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Bookings",
+    "part": "Bookings Last 12 Months compared to Last 12 Months one year ago",
+    "weight": "SFDC",
+    "rule": 5
+  },
+  {
+    "kpi_name": "Bookings",
+    "part": "Pipeline 70% and above next 12 months compared to the same one year ago",
+    "weight": "SFDC",
+    "rule": 5
+  },
+  {
+    "kpi_name": "Sentiment",
+    "part": null,
+    "weight": null,
+    "rule": null
+  },
+  {
+    "kpi_name": "NPS",
+    "part": "NPS",
+    "weight": "To enhance",
+    "rule": 0
+  },
+  {
+    "kpi_name": "Customer Escalations",
+    "part": "Customer Escalations",
+    "weight": "MVP ready to implement",
+    "rule": 0
+  },
+  {
+    "kpi_name": "CSAT",
+    "part": "CSAT Score",
+    "weight": "CTO",
+    "rule": 38
+  }
+]

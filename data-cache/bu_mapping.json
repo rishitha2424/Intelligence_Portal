@@ -1,0 +1,261 @@
+[
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Engagement and Experience"
+  },
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Engagement and Experience"
+  },
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Business Unit",
+    "value": "Engagement and Experience"
+  },
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "Business Unit",
+    "value": "E&E"
+  },
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Business Unit",
+    "value": "E&E"
+  },
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "LOB",
+    "value": "Engagement & Experience"
+  },
+  {
+    "logical_bu": "Engagement & Experience",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Business",
+    "value": "E&E"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Business Unit",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "Business Unit",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Business Unit",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Business Unit",
+    "value": "CommonAIP"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "LOB",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Business",
+    "value": "Risk"
+  },
+  {
+    "logical_bu": "Risk",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Business",
+    "value": "Multi PCC"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Roaming"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Roaming"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Business Unit",
+    "value": "Roaming"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "Business Unit",
+    "value": "Roaming"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Business Unit",
+    "value": "RNS"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "LOB",
+    "value": "Roaming"
+  },
+  {
+    "logical_bu": "Roaming",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Business",
+    "value": "Roaming"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Business Unit",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "Business Unit",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Business Unit",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "LOB",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Security",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Business",
+    "value": "Security"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "Pipeline Next 12 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Testing"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "Bookings Last 24 Months PowerQuery",
+    "sheet": "Pivot",
+    "field": "Business Unit",
+    "value": "Testing"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "Project Master PowerQuery",
+    "sheet": "Open & Delayed Projects",
+    "field": "Business Unit",
+    "value": "Testing"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "ServiceNow Aging Closed Open PowerQuery",
+    "sheet": "Created Tickets",
+    "field": "Business Unit",
+    "value": "Testing"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "Jira External Defects",
+    "sheet": "Open Critical + Major Tickets",
+    "field": "Business Unit",
+    "value": "TSA"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "Revenue Cube 2023-2026",
+    "sheet": "Revenue Cube 2023-2026",
+    "field": "LOB",
+    "value": "Testing"
+  },
+  {
+    "logical_bu": "Testing",
+    "file_name": "AR Health PowerQuery",
+    "sheet": "AR Data",
+    "field": "Business",
+    "value": "Testing"
+  }
+]
