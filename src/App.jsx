@@ -682,12 +682,16 @@ export default function App() {
 
   // KAM Filter States & Dropdowns
   const LENS_OPTIONS = [
+    { key: 'none', label: 'No Lens' },
     { key: 'cluster', label: 'Market Cluster' },
     { key: 'fraud', label: 'Fraud Risk' },
     { key: 'fiveG', label: '5G Readiness' },
     { key: 'roaming', label: 'Roaming Intensity' },
     { key: 'arpu', label: 'ARPU Pressure' }
   ];
+  const totalKamsCount = useMemo(() => {
+    return getAllKams().length;
+  }, []);
   const [selectedKam, setSelectedKam] = useState(null);
   const [openDropdown, setOpenDropdown] = useState(null); // 'lens' | 'kam' | null
   const [kamSearchQuery, setKamSearchQuery] = useState('');
@@ -1398,6 +1402,7 @@ export default function App() {
           <div className="stat-pill">Countries <span>{totalCountriesCount || metadata.total_countries || 192}</span></div>
           <div className="stat-pill">Operators <span>{totalOperatorsCount || metadata.total_operators || 658}</span></div>
           <div className="stat-pill">Regions <span>{totalRegionsCount || metadata.regions?.length || 5}</span></div>
+          <div className="stat-pill">KAMs <span>{totalKamsCount}</span></div>
         </div>
 
         <button className="theme-toggle-btn" onClick={toggleTheme} title="Toggle Dark/Light Mode">
@@ -1847,83 +1852,86 @@ export default function App() {
                     <div id="map-hover-box">Click any country to open detailed analysis</div>
 
                     {/* Map Legend */}
-                    <div id="legend">
-                      <h4 id="legend-title">
-                        {
+                    {currentLens !== 'none' && (
+                      <div id="legend">
+                        <h4 id="legend-title">
                           {
-                            cluster: 'Market Cluster',
-                            fraud: 'Fraud Risk',
-                            fiveG: '5G Readiness',
-                            roaming: 'Roaming Intensity',
-                            arpu: 'ARPU Pressure'
-                          }[currentLens]
-                        }
-                      </h4>
-                      <div id="legend-items">
-                        {currentLens === 'cluster' ? (
-                          [...new Set(Object.values(countries).map(c => c.cluster_name))]
-                            .filter(name => CLUSTER_COLORS[name])
-                            .sort((a, b) => (TIER_ORDER[a] ?? 99) - (TIER_ORDER[b] ?? 99))
-                            .map(name => (
-                              <div className="legend-row" key={name}>
-                                <div className="legend-dot" style={{ background: CLUSTER_COLORS[name] }}></div>
-                                {name}
+                            {
+                              none: 'No Lens',
+                              cluster: 'Market Cluster',
+                              fraud: 'Fraud Risk',
+                              fiveG: '5G Readiness',
+                              roaming: 'Roaming Intensity',
+                              arpu: 'ARPU Pressure'
+                            }[currentLens]
+                          }
+                        </h4>
+                        <div id="legend-items">
+                          {currentLens === 'cluster' ? (
+                            [...new Set(Object.values(countries).map(c => c.cluster_name))]
+                              .filter(name => CLUSTER_COLORS[name])
+                              .sort((a, b) => (TIER_ORDER[a] ?? 99) - (TIER_ORDER[b] ?? 99))
+                              .map(name => (
+                                <div className="legend-row" key={name}>
+                                  <div className="legend-dot" style={{ background: CLUSTER_COLORS[name] }}></div>
+                                  {name}
+                                </div>
+                              ))
+                          ) : currentLens === 'fraud' ? (
+                            [
+                              { label: 'Very Low', color: '#1ABC9C' },
+                              { label: 'Low', color: '#F39C12' },
+                              { label: 'Medium', color: '#E67E22' },
+                              { label: 'High', color: '#E74C3C' },
+                              { label: 'Critical', color: '#C0392B' }
+                            ].map(item => (
+                              <div className="legend-row" key={item.label}>
+                                <div className="legend-dot" style={{ background: item.color }}></div>
+                                {item.label}
                               </div>
                             ))
-                        ) : currentLens === 'fraud' ? (
-                          [
-                            { label: 'Very Low', color: '#1ABC9C' },
-                            { label: 'Low', color: '#F39C12' },
-                            { label: 'Medium', color: '#E67E22' },
-                            { label: 'High', color: '#E74C3C' },
-                            { label: 'Critical', color: '#C0392B' }
-                          ].map(item => (
-                            <div className="legend-row" key={item.label}>
-                              <div className="legend-dot" style={{ background: item.color }}></div>
-                              {item.label}
-                            </div>
-                          ))
-                        ) : currentLens === 'fiveG' ? (
-                          [
-                            { label: '<20%', color: '#1e3054' },
-                            { label: '20-40%', color: '#1A5276' },
-                            { label: '40-60%', color: '#2471A3' },
-                            { label: '60-80%', color: '#2980B9' },
-                            { label: '>80%', color: '#1ABC9C' }
-                          ].map(item => (
-                            <div className="legend-row" key={item.label}>
-                              <div className="legend-dot" style={{ background: item.color }}></div>
-                              {item.label}
-                            </div>
-                          ))
-                        ) : currentLens === 'roaming' ? (
-                          [
-                            { label: 'Minimal', color: '#1e3054' },
-                            { label: 'Low', color: '#1A5276' },
-                            { label: 'Moderate', color: '#2471A3' },
-                            { label: 'High', color: '#2980B9' },
-                            { label: 'Very High', color: '#1ABC9C' }
-                          ].map(item => (
-                            <div className="legend-row" key={item.label}>
-                              <div className="legend-dot" style={{ background: item.color }}></div>
-                              {item.label}
-                            </div>
-                          ))
-                        ) : (
-                          [
-                            { label: 'Growing', color: '#27AE60' },
-                            { label: 'Stable', color: '#F39C12' },
-                            { label: 'Pressure', color: '#E67E22' },
-                            { label: 'Critical', color: '#E74C3C' }
-                          ].map(item => (
-                            <div className="legend-row" key={item.label}>
-                              <div className="legend-dot" style={{ background: item.color }}></div>
-                              {item.label}
-                            </div>
-                          ))
-                        )}
+                          ) : currentLens === 'fiveG' ? (
+                            [
+                              { label: '<20%', color: '#1e3054' },
+                              { label: '20-40%', color: '#1A5276' },
+                              { label: '40-60%', color: '#2471A3' },
+                              { label: '60-80%', color: '#2980B9' },
+                              { label: '>80%', color: '#1ABC9C' }
+                            ].map(item => (
+                              <div className="legend-row" key={item.label}>
+                                <div className="legend-dot" style={{ background: item.color }}></div>
+                                {item.label}
+                              </div>
+                            ))
+                          ) : currentLens === 'roaming' ? (
+                            [
+                              { label: 'Minimal', color: '#1e3054' },
+                              { label: 'Low', color: '#1A5276' },
+                              { label: 'Moderate', color: '#2471A3' },
+                              { label: 'High', color: '#2980B9' },
+                              { label: 'Very High', color: '#1ABC9C' }
+                            ].map(item => (
+                              <div className="legend-row" key={item.label}>
+                                <div className="legend-dot" style={{ background: item.color }}></div>
+                                {item.label}
+                              </div>
+                            ))
+                          ) : (
+                            [
+                              { label: 'Growing', color: '#27AE60' },
+                              { label: 'Stable', color: '#F39C12' },
+                              { label: 'Pressure', color: '#E67E22' },
+                              { label: 'Critical', color: '#E74C3C' }
+                            ].map(item => (
+                              <div className="legend-row" key={item.label}>
+                                <div className="legend-dot" style={{ background: item.color }}></div>
+                                {item.label}
+                              </div>
+                            ))
+                          )}
+                        </div>
                       </div>
-                    </div>
+                    )}
                   </div>
                 </div>
               </div>

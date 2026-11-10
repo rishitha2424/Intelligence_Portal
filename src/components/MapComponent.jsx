@@ -3,7 +3,34 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { fetchHealthData } from '../utils/healthApi';
 
-import { getKamByCountry } from '../data/kamData';
+import { getKamByCountry, getCountryRegionInKam } from '../data/kamData';
+import countriesGeoJson from '../data/countries_geo.json';
+
+export const buildCountryTooltip = (name, countries) => {
+  const v = name ? countries[name] : null;
+  const label = name || '?';
+  const kamName = name ? getKamByCountry(name) : 'No Key Account Manager assigned';
+  const excelRegion = name ? getCountryRegionInKam(name) : null;
+  const region = excelRegion || (v ? v.region : '');
+
+  let tip = `<strong>${label}</strong>`;
+  tip += `<br><span style="color:#2563eb;font-weight:600">KAM: ${kamName}</span>`;
+  if (region) {
+    tip += `<br><span style="color:var(--text-muted, #64748b)">${region}</span>`;
+  }
+  if (v) {
+    const opNames = v.operators ? v.operators.map(o => o.operator).join(', ') : '';
+    const numOps = v.num_operators !== undefined ? v.num_operators : (v.operators ? v.operators.length : 0);
+    tip += `<br>Operators (${numOps}): <strong>${opNames}</strong>`;
+    if (v.cluster_name) {
+      tip += `<br>Cluster: ${v.cluster_name}`;
+    }
+    if (v.stats?.avg_5g) {
+      tip += `<br>5G: ${v.stats.avg_5g.toFixed(0)}%`;
+    }
+  }
+  return tip;
+};
 
 const CLUSTER_COLORS = {
   'Frontier': '#E74C3C',
@@ -67,6 +94,9 @@ export default function MapComponent({
   };
 
   const getCountryColor = (countryName, lens) => {
+    if (lens === 'none') {
+      return theme === 'light' ? '#94a3b8' : '#475569';
+    }
     const v = countries[countryName];
     if (!v) return theme === 'light' ? '#cbd5e1' : '#1e2d4a';
     
@@ -263,112 +293,115 @@ export default function MapComponent({
 
     labelsLayerRef.current = labelsLayer;
 
-    // Load GeoJSON world
-    fetch('https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson')
-      .then(r => r.json())
-      .then(geo => {
-        if (!isMounted) return;
-        const layer = L.geoJSON(geo, {
-          style: styleFeature,
-          onEachFeature: (feature, layer) => {
-            const name = findCountryName(feature.properties);
-            const v = name ? countries[name] : null;
+    // Render GeoJSON layer
+    const initGeoJsonLayer = (geo) => {
+      if (!isMounted) return;
+      const layer = L.geoJSON(geo, {
+        style: styleFeature,
+        onEachFeature: (feature, layer) => {
+          const name = findCountryName(feature.properties);
+          const v = name ? countries[name] : null;
 
-            layer.on({
-              mouseover: (e) => {
-                const l = e.target;
-                const label = name || feature.properties.NAME || '?';
-                const kamName = name ? getKamByCountry(name) : null;
-                let tip = `<strong>${label}</strong>`;
-                if (kamName) {
-                  tip += `<br><span style="color:var(--blue);font-weight:600">KAM: ${kamName}</span>`;
-                }
-                if (v) {
-                  const opNames = v.operators ? v.operators.map(o => o.operator).join(', ') : '';
-                  tip += `<br><span style="color:var(--text-muted)">${v.region}</span>`;
-                  tip += `<br>Operators (${v.num_operators}): <strong>${opNames}</strong>`;
-                  tip += `<br>Cluster: ${v.cluster_name}`;
-                  if (v.stats?.avg_5g) tip += `<br>5G: ${v.stats.avg_5g?.toFixed(0)}%`;
-                }
-
-                l.bindTooltip(tip, {
-                  className: 'custom-tooltip',
-                  sticky: true
-                }).openTooltip();
-              },
-              mouseout: () => { },
-              click: () => {
-                if (v) onSelectCountry(name);
-              }
-            });
-
-            // Add country name label - clean custom HTML label from GeoJSON
-            if (name) {
-              const bounds = layer.getBounds();
-              const center = bounds.getCenter();
-              const countryLabel = L.marker(center, {
-                icon: L.divIcon({
-                  className: 'country-label',
-                  html: `<span>${name}</span>`,
-                  iconSize: [100, 20],
-                  iconAnchor: [50, 10],
-                  pointerEvents: 'none'
-                }),
-                pane: 'labels'
-              }).addTo(map);
+          layer.on({
+            mouseover: (e) => {
+              const l = e.target;
+              const tip = buildCountryTooltip(name, countries);
+              l.bindTooltip(tip, {
+                className: 'custom-tooltip',
+                sticky: true
+              }).openTooltip();
+            },
+            mouseout: () => { },
+            click: () => {
+              if (v) onSelectCountry(name);
             }
+          });
+
+          // Add country name label - clean custom HTML label from GeoJSON
+          if (name) {
+            const bounds = layer.getBounds();
+            const center = bounds.getCenter();
+            L.marker(center, {
+              icon: L.divIcon({
+                className: 'country-label',
+                html: `<span>${name}</span>`,
+                iconSize: [100, 20],
+                iconAnchor: [50, 10],
+                pointerEvents: 'none'
+              }),
+              pane: 'labels'
+            }).addTo(map);
           }
+        }
+      }).addTo(map);
+
+      geojsonLayerRef.current = layer;
+
+      // Add static continent labels
+      const continents = [
+        { name: 'Europe', coords: [50.0, 15.0] },
+        { name: 'Asia', coords: [45.0, 80.0] },
+        { name: 'Africa', coords: [10.0, 20.0] },
+        { name: 'North America', coords: [45.0, -100.0] },
+        { name: 'South America', coords: [-15.0, -60.0] },
+        { name: 'Oceania', coords: [-25.0, 135.0] }
+      ];
+
+      continents.forEach(c => {
+        const icon = L.divIcon({
+          className: 'continent-label',
+          html: `<span style="font-weight: 800; font-size: 13px; color: #ffffff; text-shadow: 0px 1px 3px rgba(0,0,0,0.95), 0px 0px 6px rgba(0,0,0,0.8); letter-spacing: 0.5px; text-transform: uppercase;">${c.name}</span>`,
+          iconSize: [120, 24],
+          iconAnchor: [60, 12]
+        });
+        L.marker(c.coords, {
+          icon,
+          interactive: false,
+          pane: 'labels'
+        }).addTo(map);
+      });
+    };
+
+    const renderFallbackCircles = () => {
+      if (!isMounted) return;
+      Object.entries(countries).forEach(([name, v]) => {
+        if (!v.lat || !v.lng) return;
+        const color = getCountryColor(name, currentLens);
+        const radius = Math.max(4, Math.min(12, (v.num_operators || 1) * 2));
+        const marker = L.circleMarker([v.lat, v.lng], {
+          radius,
+          fillColor: color,
+          fillOpacity: 0.8,
+          color: theme === 'light' ? '#64748b44' : '#ffffff22',
+          weight: 0.5
         }).addTo(map);
 
-        geojsonLayerRef.current = layer;
-
-        // Add static continent labels
-        const continents = [
-          { name: 'Europe', coords: [50.0, 15.0] },
-          { name: 'Asia', coords: [45.0, 80.0] },
-          { name: 'Africa', coords: [10.0, 20.0] },
-          { name: 'North America', coords: [45.0, -100.0] },
-          { name: 'South America', coords: [-15.0, -60.0] },
-          { name: 'Oceania', coords: [-25.0, 135.0] }
-        ];
-
-        continents.forEach(c => {
-          const icon = L.divIcon({
-            className: 'continent-label',
-            html: `<span style="font-weight: 800; font-size: 13px; color: #ffffff; text-shadow: 0px 1px 3px rgba(0,0,0,0.95), 0px 0px 6px rgba(0,0,0,0.8); letter-spacing: 0.5px; text-transform: uppercase;">${c.name}</span>`,
-            iconSize: [120, 24],
-            iconAnchor: [60, 12]
-          });
-          L.marker(c.coords, {
-            icon,
-            interactive: false,
-            pane: 'labels'
-          }).addTo(map);
-        });
-      })
-      .catch((err) => {
-        if (!isMounted) return;
-        console.error('GeoJSON load failed, falling back to circle markers', err);
-        // Fallback: circle markers
-        Object.entries(countries).forEach(([name, v]) => {
-          if (!v.lat || !v.lng) return;
-          const color = getCountryColor(name, currentLens);
-          const radius = Math.max(4, Math.min(12, (v.num_operators || 1) * 2));
-          const marker = L.circleMarker([v.lat, v.lng], {
-            radius,
-            fillColor: color,
-            fillOpacity: 0.8,
-            color: theme === 'light' ? '#64748b44' : '#ffffff22',
-            weight: 0.5
-          }).addTo(map);
-
-          marker.on('click', () => onSelectCountry(name));
-          const opNames = v.operators ? v.operators.map(o => o.operator).join(', ') : '';
-          marker.bindTooltip(`<strong>${name}</strong><br>${v.region} · ${v.num_operators} operators (${opNames})`, {
-            className: 'custom-tooltip'
-          });
+        marker.on('click', () => onSelectCountry(name));
+        const tip = buildCountryTooltip(name, countries);
+        marker.bindTooltip(tip, {
+          className: 'custom-tooltip',
+          sticky: true
         });
       });
+    };
+
+    // Load GeoJSON locally from bundled JSON or public local path
+    if (countriesGeoJson && countriesGeoJson.features) {
+      try {
+        initGeoJsonLayer(countriesGeoJson);
+      } catch (err) {
+        console.error('GeoJSON render error, falling back to local fetch:', err);
+        fetch('/data/countries.geojson')
+          .then(r => r.json())
+          .then(geo => initGeoJsonLayer(geo))
+          .catch(() => renderFallbackCircles());
+      }
+    } else {
+      fetch('/data/countries.geojson')
+        .then(r => r.json())
+        .then(geo => initGeoJsonLayer(geo))
+        .catch(() => renderFallbackCircles());
+    }
 
     return () => {
       isMounted = false;
