@@ -1,0 +1,1008 @@
+{
+  "all_kams": [
+    "Anabela Marques",
+    "Bassam Madi",
+    "Bernard Sin",
+    "Bernardo Ledo",
+    "Bernd Stottmeier",
+    "Besma Bourjini",
+    "Branko Prskalo",
+    "Dalibor Mladenovski",
+    "Daniel Cunnie",
+    "David Rottelman",
+    "Deepak Gulati",
+    "Dushendra Balakrishnan",
+    "Eli Krakauer",
+    "Esteban Aguerre",
+    "Eyad Amoum",
+    "Gabriel Camarena",
+    "Hemesh HJ",
+    "Ian Gebbett",
+    "Ian Koh",
+    "Igor Angjusev",
+    "Ines Ferreira",
+    "Jitendra Patil",
+    "Joao Cabral",
+    "Joao Pedro Tapada",
+    "Joseph Kariuki",
+    "Kirill Sergienko",
+    "Luay Arabi",
+    "Mohamed Ba",
+    "Mohammad Hajali",
+    "Namratha V",
+    "Nermin Akyildiz",
+    "Niraj Kumar",
+    "Nishad Majeed",
+    "Omar D'Jesus Diaz",
+    "Pietro Saia",
+    "Preeti Kumari",
+    "Rajesh G",
+    "Raphael Roale",
+    "Saba Raja",
+    "Shankar Maniraj",
+    "Sherif Malaty",
+    "Sorab Boubakour",
+    "Sunita Char",
+    "Takashi Harada",
+    "Tomas Portero",
+    "Veronique Geluykens",
+    "Vladyslav Koba",
+    "Volker Sehnert",
+    "Wenjia Gan",
+    "Zdravko Stambolov"
+  ],
+  "kam_to_countries": {
+    "Anabela Marques": [
+      "Angola",
+      "Mozambique"
+    ],
+    "Bassam Madi": [
+      "Egypt"
+    ],
+    "Bernard Sin": [
+      "Hong Kong",
+      "Taiwan"
+    ],
+    "Bernardo Ledo": [
+      "Argentina"
+    ],
+    "Bernd Stottmeier": [
+      "Austria",
+      "Germany",
+      "Netherlands",
+      "Switzerland"
+    ],
+    "Besma Bourjini": [
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "Branko Prskalo": [
+      "Germany",
+      "Italy",
+      "Netherlands",
+      "Spain",
+      "UK"
+    ],
+    "Dalibor Mladenovski": [
+      "Australia",
+      "China",
+      "Hong Kong",
+      "Japan",
+      "New Zealand",
+      "South Korea"
+    ],
+    "Daniel Cunnie": [
+      "USA"
+    ],
+    "David Rottelman": [
+      "France",
+      "Germany",
+      "Netherlands",
+      "Spain",
+      "Switzerland"
+    ],
+    "Deepak Gulati": [
+      "USA"
+    ],
+    "Dushendra Balakrishnan": [
+      "Brunei",
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "Eli Krakauer": [
+      "Benin",
+      "Botswana",
+      "Cameroon",
+      "Ghana",
+      "Israel",
+      "Ivory Coast",
+      "Nigeria",
+      "South Africa",
+      "UAE"
+    ],
+    "Esteban Aguerre": [
+      "Argentina",
+      "Bermuda",
+      "Chile",
+      "Mexico",
+      "Panama",
+      "Peru",
+      "Puerto Rico"
+    ],
+    "Eyad Amoum": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Oman",
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "Gabriel Camarena": [
+      "Guatemala",
+      "Luxembourg",
+      "Mexico",
+      "Peru"
+    ],
+    "Hemesh HJ": [
+      "Hong Kong"
+    ],
+    "Ian Gebbett": [
+      "Canada",
+      "USA"
+    ],
+    "Ian Koh": [
+      "Philippines",
+      "Singapore"
+    ],
+    "Igor Angjusev": [
+      "Canada",
+      "Jamaica",
+      "USA"
+    ],
+    "Ines Ferreira": [
+      "Italy",
+      "Netherlands",
+      "Spain",
+      "Switzerland"
+    ],
+    "Jitendra Patil": [
+      "Maldives"
+    ],
+    "Joao Cabral": [
+      "Portugal"
+    ],
+    "Joao Pedro Tapada": [
+      "Mexico"
+    ],
+    "Joseph Kariuki": [
+      "Ethiopia",
+      "Kenya",
+      "Mozambique",
+      "Namibia",
+      "South Africa",
+      "Tanzania",
+      "Zimbabwe"
+    ],
+    "Kirill Sergienko": [
+      "Finland",
+      "Iceland",
+      "Sweden"
+    ],
+    "Luay Arabi": [
+      "Algeria",
+      "Iraq",
+      "Morocco",
+      "Qatar",
+      "Saudi Arabia"
+    ],
+    "Mohamed Ba": [
+      "Burkina Faso",
+      "Guinea",
+      "Ivory Coast",
+      "Mali",
+      "Senegal",
+      "Tanzania",
+      "Togo"
+    ],
+    "Mohammad Hajali": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Morocco",
+      "Oman",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "Namratha V": [
+      "Philippines"
+    ],
+    "Nermin Akyildiz": [
+      "USA"
+    ],
+    "Niraj Kumar": [
+      "Chad",
+      "Congo",
+      "DR Congo",
+      "Gabon",
+      "India",
+      "Kenya",
+      "Madagascar",
+      "Malawi",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "South Africa",
+      "Tanzania",
+      "UAE",
+      "UK",
+      "USA",
+      "Uganda",
+      "Zambia"
+    ],
+    "Nishad Majeed": [
+      "Bangladesh",
+      "Indonesia",
+      "Maldives",
+      "Singapore",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "Omar D'Jesus Diaz": [
+      "Chile",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Mexico",
+      "Peru",
+      "Puerto Rico",
+      "Venezuela"
+    ],
+    "Pietro Saia": [
+      "Ireland",
+      "Italy",
+      "UK"
+    ],
+    "Preeti Kumari": [
+      "Luxembourg"
+    ],
+    "Rajesh G": [
+      "India",
+      "Luxembourg"
+    ],
+    "Raphael Roale": [
+      "Brazil"
+    ],
+    "Saba Raja": [
+      "USA"
+    ],
+    "Shankar Maniraj": [
+      "Australia",
+      "New Zealand",
+      "Philippines",
+      "Singapore"
+    ],
+    "Sherif Malaty": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Morocco",
+      "Oman",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "Sorab Boubakour": [
+      "Algeria",
+      "Morocco",
+      "South Africa"
+    ],
+    "Sunita Char": [
+      "India"
+    ],
+    "Takashi Harada": [
+      "Japan",
+      "South Korea"
+    ],
+    "Tomas Portero": [
+      "Spain"
+    ],
+    "Veronique Geluykens": [
+      "Austria",
+      "Belgium",
+      "Netherlands",
+      "Puerto Rico",
+      "Switzerland",
+      "USA"
+    ],
+    "Vladyslav Koba": [
+      "Albania",
+      "Azerbaijan",
+      "Netherlands",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "Volker Sehnert": [
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "Wenjia Gan": [
+      "Philippines",
+      "Singapore"
+    ],
+    "Zdravko Stambolov": [
+      "Azerbaijan",
+      "Poland",
+      "Romania",
+      "Turkey"
+    ]
+  },
+  "kam_to_regions": {
+    "Anabela Marques": [
+      "Africa"
+    ],
+    "Bassam Madi": [
+      "MENA"
+    ],
+    "Bernard Sin": [
+      "APAC"
+    ],
+    "Bernardo Ledo": [
+      "LATAM"
+    ],
+    "Bernd Stottmeier": [
+      "Europe"
+    ],
+    "Besma Bourjini": [
+      "Europe"
+    ],
+    "Branko Prskalo": [
+      "Europe"
+    ],
+    "Dalibor Mladenovski": [
+      "APAC"
+    ],
+    "Daniel Cunnie": [
+      "North America"
+    ],
+    "David Rottelman": [
+      "Europe"
+    ],
+    "Deepak Gulati": [
+      "North America"
+    ],
+    "Dushendra Balakrishnan": [
+      "APAC"
+    ],
+    "Eli Krakauer": [
+      "Africa"
+    ],
+    "Esteban Aguerre": [
+      "LATAM"
+    ],
+    "Eyad Amoum": [
+      "MENA"
+    ],
+    "Gabriel Camarena": [
+      "LATAM"
+    ],
+    "Hemesh HJ": [
+      "APAC"
+    ],
+    "Ian Gebbett": [
+      "North America"
+    ],
+    "Ian Koh": [
+      "APAC"
+    ],
+    "Igor Angjusev": [
+      "North America"
+    ],
+    "Ines Ferreira": [
+      "Europe"
+    ],
+    "Jitendra Patil": [
+      "APAC"
+    ],
+    "Joao Cabral": [
+      "Europe"
+    ],
+    "Joao Pedro Tapada": [
+      "LATAM"
+    ],
+    "Joseph Kariuki": [
+      "Africa"
+    ],
+    "Kirill Sergienko": [
+      "Europe"
+    ],
+    "Luay Arabi": [
+      "MENA"
+    ],
+    "Mohamed Ba": [
+      "Africa"
+    ],
+    "Mohammad Hajali": [
+      "MENA"
+    ],
+    "Namratha V": [
+      "APAC"
+    ],
+    "Nermin Akyildiz": [
+      "North America"
+    ],
+    "Niraj Kumar": [
+      "Africa",
+      "North America"
+    ],
+    "Nishad Majeed": [
+      "APAC"
+    ],
+    "Omar D'Jesus Diaz": [
+      "LATAM"
+    ],
+    "Pietro Saia": [
+      "Europe"
+    ],
+    "Preeti Kumari": [
+      "LATAM"
+    ],
+    "Rajesh G": [
+      "Africa",
+      "LATAM"
+    ],
+    "Raphael Roale": [
+      "LATAM"
+    ],
+    "Saba Raja": [
+      "North America"
+    ],
+    "Shankar Maniraj": [
+      "APAC"
+    ],
+    "Sherif Malaty": [
+      "MENA"
+    ],
+    "Sorab Boubakour": [
+      "Africa",
+      "MENA"
+    ],
+    "Sunita Char": [
+      "Africa"
+    ],
+    "Takashi Harada": [
+      "APAC"
+    ],
+    "Tomas Portero": [
+      "Europe"
+    ],
+    "Veronique Geluykens": [
+      "Europe",
+      "LATAM"
+    ],
+    "Vladyslav Koba": [
+      "Europe"
+    ],
+    "Volker Sehnert": [
+      "Europe"
+    ],
+    "Wenjia Gan": [
+      "APAC"
+    ],
+    "Zdravko Stambolov": [
+      "Europe"
+    ]
+  },
+  "country_to_kams": {
+    "UK": [
+      "Branko Prskalo",
+      "Niraj Kumar",
+      "Pietro Saia"
+    ],
+    "Chad": [
+      "Niraj Kumar"
+    ],
+    "Congo": [
+      "Niraj Kumar"
+    ],
+    "DR Congo": [
+      "Niraj Kumar"
+    ],
+    "Gabon": [
+      "Niraj Kumar"
+    ],
+    "India": [
+      "Niraj Kumar",
+      "Rajesh G",
+      "Sunita Char"
+    ],
+    "Kenya": [
+      "Joseph Kariuki",
+      "Niraj Kumar"
+    ],
+    "Madagascar": [
+      "Niraj Kumar"
+    ],
+    "Malawi": [
+      "Niraj Kumar"
+    ],
+    "Niger": [
+      "Niraj Kumar"
+    ],
+    "Nigeria": [
+      "Eli Krakauer",
+      "Niraj Kumar"
+    ],
+    "Tanzania": [
+      "Joseph Kariuki",
+      "Mohamed Ba",
+      "Niraj Kumar"
+    ],
+    "Uganda": [
+      "Niraj Kumar"
+    ],
+    "Zambia": [
+      "Niraj Kumar"
+    ],
+    "UAE": [
+      "Eli Krakauer",
+      "Eyad Amoum",
+      "Mohammad Hajali",
+      "Niraj Kumar",
+      "Sherif Malaty"
+    ],
+    "Botswana": [
+      "Eli Krakauer"
+    ],
+    "Israel": [
+      "Eli Krakauer"
+    ],
+    "Zimbabwe": [
+      "Joseph Kariuki"
+    ],
+    "Ethiopia": [
+      "Joseph Kariuki"
+    ],
+    "Burkina Faso": [
+      "Mohamed Ba"
+    ],
+    "Togo": [
+      "Mohamed Ba"
+    ],
+    "Namibia": [
+      "Joseph Kariuki",
+      "Niraj Kumar"
+    ],
+    "Benin": [
+      "Eli Krakauer"
+    ],
+    "Cameroon": [
+      "Eli Krakauer"
+    ],
+    "Ghana": [
+      "Eli Krakauer"
+    ],
+    "South Africa": [
+      "Eli Krakauer",
+      "Joseph Kariuki",
+      "Niraj Kumar",
+      "Sorab Boubakour"
+    ],
+    "Ivory Coast": [
+      "Eli Krakauer",
+      "Mohamed Ba"
+    ],
+    "Guinea": [
+      "Mohamed Ba"
+    ],
+    "Mali": [
+      "Mohamed Ba"
+    ],
+    "Senegal": [
+      "Mohamed Ba"
+    ],
+    "Angola": [
+      "Anabela Marques"
+    ],
+    "Mozambique": [
+      "Anabela Marques",
+      "Joseph Kariuki"
+    ],
+    "New Zealand": [
+      "Dalibor Mladenovski",
+      "Shankar Maniraj"
+    ],
+    "Bangladesh": [
+      "Nishad Majeed"
+    ],
+    "Malaysia": [
+      "Dushendra Balakrishnan"
+    ],
+    "Hong Kong": [
+      "Bernard Sin",
+      "Dalibor Mladenovski",
+      "Hemesh HJ"
+    ],
+    "China": [
+      "Dalibor Mladenovski"
+    ],
+    "Taiwan": [
+      "Bernard Sin"
+    ],
+    "Maldives": [
+      "Jitendra Patil",
+      "Nishad Majeed"
+    ],
+    "Thailand": [
+      "Nishad Majeed"
+    ],
+    "Philippines": [
+      "Ian Koh",
+      "Namratha V",
+      "Shankar Maniraj",
+      "Wenjia Gan"
+    ],
+    "Indonesia": [
+      "Dushendra Balakrishnan",
+      "Nishad Majeed"
+    ],
+    "Japan": [
+      "Dalibor Mladenovski",
+      "Takashi Harada"
+    ],
+    "South Korea": [
+      "Dalibor Mladenovski",
+      "Takashi Harada"
+    ],
+    "Vietnam": [
+      "Dushendra Balakrishnan"
+    ],
+    "Sri Lanka": [
+      "Nishad Majeed"
+    ],
+    "Australia": [
+      "Dalibor Mladenovski",
+      "Shankar Maniraj"
+    ],
+    "Singapore": [
+      "Ian Koh",
+      "Nishad Majeed",
+      "Shankar Maniraj",
+      "Wenjia Gan"
+    ],
+    "Brunei": [
+      "Dushendra Balakrishnan"
+    ],
+    "Germany": [
+      "Bernd Stottmeier",
+      "Branko Prskalo",
+      "David Rottelman",
+      "Volker Sehnert"
+    ],
+    "Ireland": [
+      "Pietro Saia"
+    ],
+    "Austria": [
+      "Bernd Stottmeier",
+      "Veronique Geluykens"
+    ],
+    "Azerbaijan": [
+      "Vladyslav Koba",
+      "Zdravko Stambolov"
+    ],
+    "Uzbekistan": [
+      "Vladyslav Koba"
+    ],
+    "Belgium": [
+      "Veronique Geluykens"
+    ],
+    "France": [
+      "Besma Bourjini",
+      "David Rottelman"
+    ],
+    "Switzerland": [
+      "Bernd Stottmeier",
+      "David Rottelman",
+      "Ines Ferreira",
+      "Veronique Geluykens"
+    ],
+    "Portugal": [
+      "Joao Cabral"
+    ],
+    "Finland": [
+      "Kirill Sergienko"
+    ],
+    "USA": [
+      "Daniel Cunnie",
+      "Deepak Gulati",
+      "Ian Gebbett",
+      "Igor Angjusev",
+      "Nermin Akyildiz",
+      "Niraj Kumar",
+      "Saba Raja",
+      "Veronique Geluykens"
+    ],
+    "Netherlands": [
+      "Bernd Stottmeier",
+      "Branko Prskalo",
+      "David Rottelman",
+      "Ines Ferreira",
+      "Veronique Geluykens",
+      "Vladyslav Koba"
+    ],
+    "Ukraine": [
+      "Vladyslav Koba"
+    ],
+    "Spain": [
+      "Besma Bourjini",
+      "Branko Prskalo",
+      "David Rottelman",
+      "Ines Ferreira",
+      "Tomas Portero",
+      "Volker Sehnert"
+    ],
+    "Iceland": [
+      "Kirill Sergienko"
+    ],
+    "Poland": [
+      "Zdravko Stambolov"
+    ],
+    "Romania": [
+      "Zdravko Stambolov"
+    ],
+    "Italy": [
+      "Besma Bourjini",
+      "Branko Prskalo",
+      "Ines Ferreira",
+      "Pietro Saia",
+      "Volker Sehnert"
+    ],
+    "Sweden": [
+      "Kirill Sergienko"
+    ],
+    "Turkey": [
+      "Zdravko Stambolov"
+    ],
+    "Albania": [
+      "Vladyslav Koba"
+    ],
+    "Brazil": [
+      "Raphael Roale"
+    ],
+    "Dominican Republic": [
+      "Omar D'Jesus Diaz"
+    ],
+    "Mexico": [
+      "Esteban Aguerre",
+      "Gabriel Camarena",
+      "Joao Pedro Tapada",
+      "Omar D'Jesus Diaz"
+    ],
+    "Puerto Rico": [
+      "Esteban Aguerre",
+      "Omar D'Jesus Diaz",
+      "Veronique Geluykens"
+    ],
+    "Panama": [
+      "Esteban Aguerre"
+    ],
+    "Argentina": [
+      "Bernardo Ledo",
+      "Esteban Aguerre"
+    ],
+    "Chile": [
+      "Esteban Aguerre",
+      "Omar D'Jesus Diaz"
+    ],
+    "Guatemala": [
+      "Gabriel Camarena",
+      "Omar D'Jesus Diaz"
+    ],
+    "Peru": [
+      "Esteban Aguerre",
+      "Gabriel Camarena",
+      "Omar D'Jesus Diaz"
+    ],
+    "Venezuela": [
+      "Omar D'Jesus Diaz"
+    ],
+    "Bermuda": [
+      "Esteban Aguerre"
+    ],
+    "Luxembourg": [
+      "Gabriel Camarena",
+      "Preeti Kumari",
+      "Rajesh G"
+    ],
+    "Ecuador": [
+      "Omar D'Jesus Diaz"
+    ],
+    "Iraq": [
+      "Eyad Amoum",
+      "Luay Arabi",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Bahrain": [
+      "Eyad Amoum",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Algeria": [
+      "Eyad Amoum",
+      "Luay Arabi",
+      "Mohammad Hajali",
+      "Sherif Malaty",
+      "Sorab Boubakour"
+    ],
+    "Egypt": [
+      "Bassam Madi",
+      "Eyad Amoum",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Morocco": [
+      "Luay Arabi",
+      "Mohammad Hajali",
+      "Sherif Malaty",
+      "Sorab Boubakour"
+    ],
+    "Pakistan": [
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Saudi Arabia": [
+      "Eyad Amoum",
+      "Luay Arabi",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Oman": [
+      "Eyad Amoum",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Kuwait": [
+      "Eyad Amoum",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Qatar": [
+      "Luay Arabi",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Jordan": [
+      "Eyad Amoum",
+      "Mohammad Hajali",
+      "Sherif Malaty"
+    ],
+    "Canada": [
+      "Ian Gebbett",
+      "Igor Angjusev"
+    ],
+    "Jamaica": [
+      "Igor Angjusev"
+    ]
+  },
+  "country_to_region": {
+    "UK": "Europe",
+    "Chad": "Africa",
+    "Congo": "Africa",
+    "DR Congo": "Africa",
+    "Gabon": "Africa",
+    "India": "Africa",
+    "Kenya": "Africa",
+    "Madagascar": "Africa",
+    "Malawi": "Africa",
+    "Niger": "Africa",
+    "Nigeria": "Africa",
+    "Rwanda": "Africa",
+    "Seychelles": "Africa",
+    "Sri Lanka": "APAC",
+    "Tanzania": "Africa",
+    "Uganda": "Africa",
+    "Zambia": "Africa",
+    "Togo": "Africa",
+    "UAE": "MENA",
+    "Botswana": "Africa",
+    "Israel": "Africa",
+    "Burkina Faso": "Africa",
+    "Zimbabwe": "Africa",
+    "Eritrea": "Africa",
+    "Ethiopia": "Africa",
+    "Central African Republic": "Africa",
+    "Ivory Coast": "Africa",
+    "Namibia": "Africa",
+    "Benin": "Africa",
+    "Cameroon": "Africa",
+    "Ghana": "Africa",
+    "South Africa": "Africa",
+    "Guinea": "Africa",
+    "Mali": "Africa",
+    "Senegal": "Africa",
+    "Angola": "Africa",
+    "Mozambique": "Africa",
+    "New Zealand": "APAC",
+    "Thailand": "APAC",
+    "Bangladesh": "APAC",
+    "Malaysia": "APAC",
+    "Hong Kong": "APAC",
+    "China": "APAC",
+    "Taiwan": "APAC",
+    "Maldives": "APAC",
+    "Philippines": "APAC",
+    "Indonesia": "APAC",
+    "Japan": "APAC",
+    "South Korea": "APAC",
+    "Singapore": "APAC",
+    "Vietnam": "APAC",
+    "Australia": "APAC",
+    "Brunei": "APAC",
+    "Germany": "Europe",
+    "Ireland": "Europe",
+    "Sweden": "Europe",
+    "Austria": "Europe",
+    "Azerbaijan": "Europe",
+    "Uzbekistan": "Europe",
+    "Belgium": "Europe",
+    "France": "Europe",
+    "Switzerland": "Europe",
+    "Portugal": "Europe",
+    "Finland": "Europe",
+    "Luxembourg": "Europe",
+    "USA": "North America",
+    "Netherlands": "Europe",
+    "Ukraine": "Europe",
+    "Spain": "Europe",
+    "Iceland": "Europe",
+    "Poland": "Europe",
+    "Romania": "Europe",
+    "Italy": "Europe",
+    "Turkey": "Europe",
+    "Albania": "Europe",
+    "Brazil": "LATAM",
+    "Dominican Republic": "LATAM",
+    "Mexico": "LATAM",
+    "Puerto Rico": "LATAM",
+    "Jamaica": "LATAM",
+    "Panama": "LATAM",
+    "Argentina": "LATAM",
+    "Chile": "LATAM",
+    "Ecuador": "LATAM",
+    "Guatemala": "LATAM",
+    "Honduras": "LATAM",
+    "Paraguay": "LATAM",
+    "Peru": "LATAM",
+    "Venezuela": "LATAM",
+    "Costa Rica": "LATAM",
+    "Bermuda": "LATAM",
+    "Colombia": "LATAM",
+    "Iraq": "MENA",
+    "Bahrain": "MENA",
+    "Algeria": "MENA",
+    "Egypt": "MENA",
+    "Morocco": "MENA",
+    "Pakistan": "MENA",
+    "Saudi Arabia": "MENA",
+    "Oman": "MENA",
+    "Qatar": "MENA",
+    "Kuwait": "MENA",
+    "Jordan": "MENA",
+    "Canada": "North America"
+  }
+}

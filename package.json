@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "start": "node server.js",
     "load:data": "node scripts/load_data.js",
-    "check:data": "node scripts/check_data.js"
+    "check:data": "node scripts/check_data.js",
+    "audit:kam": "node scripts/verify_kam_audit.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.0",
@@ -20,7 +21,8 @@
     "pg": "^8.23.0",
     "pptxgenjs": "^4.0.1",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "react-dom": "^19.2.6",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

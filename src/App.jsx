@@ -17,6 +17,7 @@ import {
   getCountriesByKam,
   getKamsByRegion,
   getRegionsByKam,
+  getCountryRegionInKam,
   getAllKams
 } from './data/kamData';
 
@@ -255,7 +256,32 @@ export default function App() {
         cluster_name: cluster
       };
     });
-    return result;
+        return new Proxy(result, {
+      get(target, prop) {
+        if (typeof prop === 'string') {
+          if (prop in target) return target[prop];
+          const lower = prop.toLowerCase().trim();
+          const aliasMap = {
+            'uk': 'United Kingdom',
+            'united kingdom': 'United Kingdom',
+            'usa': 'United States',
+            'united states': 'United States',
+            'ivory coast': "Cote d'Ivoire",
+            "cote d'ivoire": "Cote d'Ivoire",
+            'congo': 'Congo (Brazzaville)',
+            'dr congo': 'DR Congo',
+            'czech republic': 'Czech Republic'
+          };
+          const targetKey = aliasMap[lower] || lower;
+          for (const [k, v] of Object.entries(target)) {
+            if (k.toLowerCase() === lower || k.toLowerCase() === targetKey.toLowerCase()) {
+              return v;
+            }
+          }
+        }
+        return target[prop];
+      }
+    });
   }, [loadedCountries]);
 
   const totalCountriesCount = useMemo(() => {
@@ -1678,7 +1704,7 @@ export default function App() {
 
                       <div style={{ flex: 1, overflowY: 'auto', padding: '12px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
                         {kamCountriesList.map(name => {
-                          const c = countries[name];
+                          const c = countries[name] || Object.values(countries).find(item => item.country?.toLowerCase() === String(name).toLowerCase());
                           if (!c) return null;
                           const clr = CLUSTER_COLORS[c.cluster_name] || '#3b82f6';
                           return (
@@ -1723,7 +1749,7 @@ export default function App() {
                                 </span>
                               </div>
                               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '6px', fontSize: '10px', color: 'var(--text-muted)' }}>
-                                <span>{c.region} {c.sub_region ? '· ' + c.sub_region : ''}</span>
+                                <span>{getCountryRegionInKam(name) || c.region} {c.sub_region && !getCountryRegionInKam(name) ? '· ' + c.sub_region : ''}</span>
                                 <span style={{ color: 'var(--text-secondary)' }}>{c.cluster_name}</span>
                               </div>
                             </div>

@@ -173,7 +173,19 @@ export default function MapComponent({
 
     // If a KAM is selected, highlight only that KAM's countries
     if (selectedKam) {
-      const isKamCountry = !!name && kamCountries && kamCountries.includes(name);
+      const isKamCountry = !!name && kamCountries && kamCountries.some(c => {
+        if (!c) return false;
+        const cLower = c.toLowerCase().trim();
+        const nLower = name.toLowerCase().trim();
+        if (cLower === nLower) return true;
+        if (NAME_ALIASES[cLower] && NAME_ALIASES[cLower].toLowerCase() === nLower) return true;
+        if (NAME_ALIASES[nLower] && NAME_ALIASES[nLower].toLowerCase() === cLower) return true;
+        if ((cLower === 'uk' || cLower === 'united kingdom') && (nLower === 'uk' || nLower === 'united kingdom')) return true;
+        if ((cLower === 'usa' || cLower === 'united states') && (nLower === 'usa' || nLower === 'united states')) return true;
+        if ((cLower === 'ivory coast' || cLower === "cote d'ivoire") && (nLower === 'ivory coast' || nLower === "cote d'ivoire")) return true;
+        if ((cLower === 'congo' || cLower === 'congo (brazzaville)') && (nLower === 'congo' || nLower === 'congo (brazzaville)')) return true;
+        return false;
+      });
       if (isKamCountry) {
         return {
           fillColor: '#2563eb', // Prominent highlight color
@@ -268,7 +280,7 @@ export default function MapComponent({
                 const label = name || feature.properties.NAME || '?';
                 const kamName = name ? getKamByCountry(name) : null;
                 let tip = `<strong>${label}</strong>`;
-                if (kamName && kamName !== 'Unassigned') {
+                if (kamName) {
                   tip += `<br><span style="color:var(--blue);font-weight:600">KAM: ${kamName}</span>`;
                 }
                 if (v) {
