@@ -56,6 +56,7 @@ export default async function handler(req, res) {
           const regions = [...new Set(countriesList.map(c => c.region).filter(Boolean))];
           return res.status(200).json({
             total_countries: countriesList.length,
+            total_operators: 658,
             regions,
             countries: countriesList
           });
@@ -75,8 +76,10 @@ export default async function handler(req, res) {
         gdp_per_capita: c.gdp_per_capita_usd
       }));
       const regions = [...new Set(countriesList.map(c => c.region).filter(Boolean))];
+      const totalOps = Object.values(master.countries).reduce((acc, c) => acc + (c.operators?.length || c.num_operators || 0), 0);
       return res.status(200).json({
         total_countries: countriesList.length,
+        total_operators: totalOps || master.metadata?.total_operators || 658,
         regions,
         countries: countriesList
       });

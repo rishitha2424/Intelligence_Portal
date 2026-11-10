@@ -209,7 +209,8 @@ const CLUSTER_COLORS = {
 const TIER_ORDER = { Frontier: 0, Emerging: 1, Growth: 2, Mature: 3, Advanced: 4 };
 
 const DEFAULT_METADATA = {
-  total_countries: 193,
+  total_countries: masterData.metadata?.total_countries || 192,
+  total_operators: masterData.metadata?.total_operators || 658,
   regions: ["APAC", "Africa", "Europe", "LATAM", "MENA"],
   global_averages: {
     mobile_penetration: 113.7,
@@ -228,35 +229,64 @@ export default function App() {
   const [healthSelectedCustomer, setHealthSelectedCustomer] = useState(null);
   const [dataStatus, setDataStatus] = useState(null);
 
+  const countries = useMemo(() => {
+    const result = {};
+    const seenLower = new Set();
+    Object.entries(loadedCountries).forEach(([name, c]) => {
+      const lower = name.toLowerCase().trim();
+      if (seenLower.has(lower)) return;
+      seenLower.add(lower);
+
+      let reg = c.region;
+      if (reg === 'MECA' || reg === 'MECA/EU Overlap') reg = 'MENA';
+      else if (reg) reg = reg.replace(/MECA/g, 'MENA');
+
+      let subReg = c.sub_region;
+      if (subReg === 'MECA' || subReg === 'MECA/EU Overlap') subReg = 'MENA';
+      else if (subReg) subReg = subReg.replace(/MECA/g, 'MENA');
+
+      let cluster = c.cluster_name;
+      if (cluster) cluster = cluster.replace(/MECA/g, 'MENA');
+
+      result[name] = {
+        ...c,
+        region: reg,
+        sub_region: subReg,
+        cluster_name: cluster
+      };
+    });
+    return result;
+  }, [loadedCountries]);
+
+  const totalCountriesCount = useMemo(() => {
+    return Object.keys(countries).length;
+  }, [countries]);
+
+  const totalOperatorsCount = useMemo(() => {
+    return Object.values(countries).reduce((acc, c) => acc + (c.operators?.length || c.num_operators || 0), 0);
+  }, [countries]);
+
+  const totalRegionsCount = useMemo(() => {
+    return new Set(Object.values(countries).map(c => c.region).filter(Boolean)).size;
+  }, [countries]);
+
   // Fetch initial metadata and status
   useEffect(() => {
     fetchDataStatus().then(setDataStatus).catch(() => {});
     fetch('/api/get-operator-data?meta=true')
       .then(res => res.ok ? res.json() : null)
       .then(data => {
-        if (data && data.regions) {
+        if (data) {
           setMetadata(prev => ({
             ...prev,
             total_countries: data.total_countries || prev.total_countries,
-            regions: data.regions.map(r => r === 'MECA' ? 'MENA' : r)
+            total_operators: data.total_operators || prev.total_operators || totalOperatorsCount || 658,
+            regions: data.regions ? data.regions.map(r => (r === 'MECA' || r === 'MECA/EU Overlap') ? 'MENA' : r) : prev.regions
           }));
         }
       })
       .catch(err => console.error("Metadata fetch error:", err));
-  }, []);
-
-  const countries = useMemo(() => {
-    const result = {};
-    Object.entries(loadedCountries).forEach(([name, c]) => {
-      result[name] = {
-        ...c,
-        region: c.region ? c.region.replace(/MECA/g, 'MENA') : c.region,
-        sub_region: c.sub_region ? c.sub_region.replace(/MECA/g, 'MENA') : c.sub_region,
-        cluster_name: c.cluster_name ? c.cluster_name.replace(/MECA/g, 'MENA') : c.cluster_name
-      };
-    });
-    return result;
-  }, [loadedCountries]);
+  }, [totalOperatorsCount]);
 
   const buildOperatorInsight = (countryName, op) => {
     if (!op) return null;
@@ -1339,9 +1369,9 @@ export default function App() {
         </div>
         <div className="spacer"></div>
         <div className="stats-bar">
-          <div className="stat-pill">Countries <span>{metadata.total_countries}</span></div>
-          <div className="stat-pill">Operators <span>{metadata.total_operators}</span></div>
-          <div className="stat-pill">Regions <span>5</span></div>
+          <div className="stat-pill">Countries <span>{totalCountriesCount || metadata.total_countries || 192}</span></div>
+          <div className="stat-pill">Operators <span>{totalOperatorsCount || metadata.total_operators || 658}</span></div>
+          <div className="stat-pill">Regions <span>{totalRegionsCount || metadata.regions?.length || 5}</span></div>
         </div>
 
         <button className="theme-toggle-btn" onClick={toggleTheme} title="Toggle Dark/Light Mode">

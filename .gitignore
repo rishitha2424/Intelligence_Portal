@@ -26,13 +26,3 @@ dist-ssr
 __pycache__/
 *.pyc
 scratch/
-
-# Environment secrets
-.env
-.env.*
-!.env.example
-
-# Environment secrets
-.env
-.env.*
-!.env.example
